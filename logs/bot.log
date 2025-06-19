@@ -1,0 +1,1304 @@
+2025-05-27 13:53:15,063 - __main__ - ERROR - FFmpeg не настроен правильно! Убедитесь что ffmpeg установлен и добавлен в PATH
+2025-05-27 13:54:17,531 - __main__ - ERROR - FFmpeg не настроен правильно! Убедитесь что ffmpeg установлен и добавлен в PATH
+2025-05-27 14:09:31,823 - __main__ - CRITICAL - FFmpeg не настроен правильно! Убедитесь что ffmpeg установлен и добавлен в PATH
+2025-05-27 14:09:31,823 - __main__ - WARNING - Error deleting test file: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'C:\\Users\\User\\AppData\\Local\\Temp\\tmpk0zlz58o.ogg'
+2025-05-27 14:11:50,796 - __main__ - CRITICAL - FFmpeg не настроен правильно! Убедитесь что ffmpeg установлен и добавлен в PATH
+2025-05-27 14:11:50,796 - __main__ - WARNING - Error deleting test file: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'C:\\Users\\User\\AppData\\Local\\Temp\\tmpf8x713q_.ogg'
+2025-05-27 14:13:20,583 - __main__ - CRITICAL - FFmpeg не настроен правильно! Убедитесь что ffmpeg установлен и добавлен в PATH
+2025-05-27 14:13:20,583 - __main__ - WARNING - Error deleting test file: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'C:\\Users\\User\\AppData\\Local\\Temp\\tmpshgfdpuh.ogg'
+2025-05-27 14:14:38,573 - __main__ - INFO - FFmpeg работает корректно
+2025-05-27 14:14:38,574 - __main__ - INFO - Starting bot...
+2025-05-27 14:14:38,574 - aiogram.dispatcher - INFO - Start polling
+2025-05-27 14:14:38,734 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-27 14:15:54,829 - aiogram.event - INFO - Update id=612304330 is handled. Duration 64155 ms by bot id=7244501614
+2025-05-27 14:16:59,550 - aiogram.event - INFO - Update id=612304331 is handled. Duration 54281 ms by bot id=7244501614
+2025-05-27 14:17:05,762 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-27 14:17:06,027 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-27 14:20:48,271 - __main__ - INFO - FFmpeg работает корректно
+2025-05-27 14:20:48,272 - __main__ - INFO - Starting bot...
+2025-05-27 14:20:48,272 - aiogram.dispatcher - INFO - Start polling
+2025-05-27 14:20:48,426 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-27 14:20:55,906 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:20:56,841 - __main__ - INFO - Распознанный текст: Привет
+2025-05-27 14:20:56,946 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:20:56,947 - aiogram.event - INFO - Update id=612304332 is handled. Duration 1047 ms by bot id=7244501614
+2025-05-27 14:21:12,328 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:21:12,825 - __main__ - INFO - Распознанный текст: Привет
+2025-05-27 14:21:12,901 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:21:12,902 - aiogram.event - INFO - Update id=612304333 is handled. Duration 577 ms by bot id=7244501614
+2025-05-27 14:21:21,154 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:21:21,939 - __main__ - INFO - Распознанный текст: пока
+2025-05-27 14:21:22,078 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:21:22,079 - aiogram.event - INFO - Update id=612304334 is handled. Duration 922 ms by bot id=7244501614
+2025-05-27 14:21:34,578 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:21:35,336 - __main__ - INFO - Распознанный текст: Привет
+2025-05-27 14:21:35,456 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:21:35,456 - aiogram.event - INFO - Update id=612304335 is handled. Duration 875 ms by bot id=7244501614
+2025-05-27 14:21:41,390 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:21:42,501 - __main__ - INFO - Распознанный текст: Расскажи мне о новых мониторах
+2025-05-27 14:21:58,714 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:21:58,715 - aiogram.event - INFO - Update id=612304336 is handled. Duration 17327 ms by bot id=7244501614
+2025-05-27 14:22:14,532 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:22:15,555 - __main__ - INFO - Распознанный текст: Какой монитор ты мне можешь порекомендовать
+2025-05-27 14:22:46,497 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:22:46,498 - aiogram.event - INFO - Update id=612304337 is handled. Duration 31969 ms by bot id=7244501614
+2025-05-27 14:24:26,904 - aiogram.event - INFO - Update id=612304338 is handled. Duration 49530 ms by bot id=7244501614
+2025-05-27 14:25:09,780 - aiogram.event - INFO - Update id=612304339 is handled. Duration 29530 ms by bot id=7244501614
+2025-05-27 14:25:44,329 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:25:44,898 - __main__ - INFO - Распознанный текст: Как тебя зовут
+2025-05-27 14:26:19,233 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 14:26:19,233 - aiogram.event - INFO - Update id=612304340 is handled. Duration 34906 ms by bot id=7244501614
+2025-05-27 14:26:43,089 - aiogram.event - INFO - Update id=612304341 is handled. Duration 125 ms by bot id=7244501614
+2025-05-27 14:27:43,284 - aiogram.event - INFO - Update id=612304342 is handled. Duration 41250 ms by bot id=7244501614
+2025-05-27 14:28:41,775 - aiogram.event - INFO - Update id=612304343 is handled. Duration 125 ms by bot id=7244501614
+2025-05-27 14:28:46,072 - aiogram.event - INFO - Update id=612304344 is handled. Duration 77 ms by bot id=7244501614
+2025-05-27 14:29:33,468 - aiogram.event - INFO - Update id=612304345 is handled. Duration 41188 ms by bot id=7244501614
+2025-05-27 14:30:03,959 - aiogram.event - INFO - Update id=612304346 is handled. Duration 140 ms by bot id=7244501614
+2025-05-27 14:30:08,040 - aiogram.event - INFO - Update id=612304347 is handled. Duration 78 ms by bot id=7244501614
+2025-05-27 14:30:10,715 - aiogram.event - INFO - Update id=612304348 is handled. Duration 109 ms by bot id=7244501614
+2025-05-27 14:30:16,409 - aiogram.event - INFO - Update id=612304349 is handled. Duration 108 ms by bot id=7244501614
+2025-05-27 14:30:20,554 - aiogram.event - INFO - Update id=612304350 is handled. Duration 93 ms by bot id=7244501614
+2025-05-27 14:30:46,270 - aiogram.event - INFO - Update id=612304351 is handled. Duration 20265 ms by bot id=7244501614
+2025-05-27 14:31:16,808 - aiogram.event - INFO - Update id=612304352 is handled. Duration 77 ms by bot id=7244501614
+2025-05-27 14:32:10,678 - aiogram.event - INFO - Update id=612304353 is handled. Duration 43125 ms by bot id=7244501614
+2025-05-27 14:32:46,675 - aiogram.event - INFO - Update id=612304354 is handled. Duration 78 ms by bot id=7244501614
+2025-05-27 14:34:36,755 - aiogram.event - INFO - Update id=612304355 is handled. Duration 64734 ms by bot id=7244501614
+2025-05-27 14:35:32,367 - aiogram.event - INFO - Update id=612304356 is handled. Duration 46156 ms by bot id=7244501614
+2025-05-27 14:36:15,559 - aiogram.event - INFO - Update id=612304357 is handled. Duration 22202 ms by bot id=7244501614
+2025-05-27 14:37:39,588 - aiogram.event - INFO - Update id=612304358 is handled. Duration 64438 ms by bot id=7244501614
+2025-05-27 14:37:58,077 - aiogram.event - INFO - Update id=612304359 is handled. Duration 15780 ms by bot id=7244501614
+2025-05-27 14:38:52,394 - aiogram.event - INFO - Update id=612304360 is handled. Duration 44468 ms by bot id=7244501614
+2025-05-27 14:39:47,108 - aiogram.event - INFO - Update id=612304361 is handled. Duration 45640 ms by bot id=7244501614
+2025-05-27 14:41:20,394 - aiogram.event - INFO - Update id=612304362 is handled. Duration 63610 ms by bot id=7244501614
+2025-05-27 14:41:46,971 - aiogram.event - INFO - Update id=612304363 is handled. Duration 21188 ms by bot id=7244501614
+2025-05-27 14:43:32,996 - aiogram.event - INFO - Update id=612304364 is handled. Duration 59969 ms by bot id=7244501614
+2025-05-27 14:43:37,606 - aiogram.event - INFO - Update id=612304365 is handled. Duration 93 ms by bot id=7244501614
+2025-05-27 14:44:39,715 - aiogram.event - INFO - Update id=612304366 is handled. Duration 60093 ms by bot id=7244501614
+2025-05-27 14:45:28,645 - aiogram.event - INFO - Update id=612304367 is handled. Duration 44078 ms by bot id=7244501614
+2025-05-27 14:45:57,828 - aiogram.event - INFO - Update id=612304368 is handled. Duration 18859 ms by bot id=7244501614
+2025-05-27 14:46:35,387 - aiogram.event - INFO - Update id=612304369 is handled. Duration 93 ms by bot id=7244501614
+2025-05-27 14:46:45,889 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-27 14:46:46,153 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-27 15:00:06,088 - __main__ - INFO - FFmpeg работает корректно
+2025-05-27 15:00:06,089 - __main__ - INFO - Starting bot...
+2025-05-27 15:00:06,089 - aiogram.dispatcher - INFO - Start polling
+2025-05-27 15:00:06,248 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-27 15:00:15,221 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 15:00:15,874 - __main__ - INFO - Распознанный текст: Привет
+2025-05-27 15:00:15,949 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 15:00:15,950 - aiogram.event - INFO - Update id=612304370 is handled. Duration 734 ms by bot id=7244501614
+2025-05-27 15:00:23,550 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 15:00:24,287 - __main__ - INFO - Распознанный текст: пока
+2025-05-27 15:00:24,403 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 15:00:24,403 - aiogram.event - INFO - Update id=612304371 is handled. Duration 858 ms by bot id=7244501614
+2025-05-27 15:00:37,922 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-27 15:00:38,737 - __main__ - INFO - Распознанный текст: Что такое монитор
+2025-05-27 15:00:57,803 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-27 15:00:57,804 - aiogram.event - INFO - Update id=612304372 is handled. Duration 19889 ms by bot id=7244501614
+2025-05-27 15:01:32,473 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-27 15:01:32,723 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:05:42,188 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 14:05:42,189 - __main__ - INFO - Starting bot...
+2025-05-28 14:05:42,189 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 14:05:42,338 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:05:58,720 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:05:59,503 - __main__ - INFO - Распознанный текст: Привет
+2025-05-28 14:06:01,070 - __main__ - ERROR - Text processing error: 2 validation errors for SendVoice
+voice.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...\Temp\\tmptzkn7wz0.ogg'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+voice.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...\Temp\\tmptzkn7wz0.ogg'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/is_instance_of
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 140, in _process_text
+    await self._send_voice_response(message, response)
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 118, in _send_voice_response
+    await message.reply_voice(voice=voice_file)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\types\message.py", line 3224, in reply_voice
+    return SendVoice(
+           ^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for SendVoice
+voice.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...\Temp\\tmptzkn7wz0.ogg'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+voice.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...\Temp\\tmptzkn7wz0.ogg'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/is_instance_of
+2025-05-28 14:06:01,158 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:06:01,159 - aiogram.event - INFO - Update id=612304373 is handled. Duration 2437 ms by bot id=7244501614
+2025-05-28 14:06:11,025 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:06:11,866 - __main__ - INFO - Распознанный текст: пока
+2025-05-28 14:06:12,971 - __main__ - ERROR - Text processing error: 2 validation errors for SendVoice
+voice.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...\Temp\\tmppovj_inl.ogg'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+voice.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...\Temp\\tmppovj_inl.ogg'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/is_instance_of
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 140, in _process_text
+    await self._send_voice_response(message, response)
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 118, in _send_voice_response
+    await message.reply_voice(voice=voice_file)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\types\message.py", line 3224, in reply_voice
+    return SendVoice(
+           ^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\pydantic\main.py", line 253, in __init__
+    validated_self = self.__pydantic_validator__.validate_python(data, self_instance=self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 2 validation errors for SendVoice
+voice.str
+  Input should be a valid string [type=string_type, input_value=<_io.BufferedReader name=...\Temp\\tmppovj_inl.ogg'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/string_type
+voice.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=<_io.BufferedReader name=...\Temp\\tmppovj_inl.ogg'>, input_type=BufferedReader]
+    For further information visit https://errors.pydantic.dev/2.11/v/is_instance_of
+2025-05-28 14:06:13,077 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:06:13,077 - aiogram.event - INFO - Update id=612304374 is handled. Duration 2047 ms by bot id=7244501614
+2025-05-28 14:06:26,959 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 14:06:27,227 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:10:20,979 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 14:10:20,980 - __main__ - INFO - Starting bot...
+2025-05-28 14:10:20,980 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 14:10:21,149 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:10:28,427 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:10:29,219 - __main__ - INFO - Распознанный текст: Привет
+2025-05-28 14:10:29,595 - __main__ - ERROR - Ошибка отправки голосового сообщения: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 117, in _send_voice_response
+    voice_file = InputFile(voice_path)
+                 ^^^^^^^^^^^^^^^^^^^^^
+TypeError: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+2025-05-28 14:10:29,595 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:10:29,596 - aiogram.event - INFO - Update id=612304375 is handled. Duration 1172 ms by bot id=7244501614
+2025-05-28 14:10:37,719 - aiogram.event - INFO - Update id=612304376 is handled. Duration 202 ms by bot id=7244501614
+2025-05-28 14:10:52,577 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:10:53,299 - __main__ - INFO - Распознанный текст: Что такое монитор
+2025-05-28 14:11:29,996 - __main__ - ERROR - Ошибка отправки голосового сообщения: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 117, in _send_voice_response
+    voice_file = InputFile(voice_path)
+                 ^^^^^^^^^^^^^^^^^^^^^
+TypeError: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+2025-05-28 14:11:29,996 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:11:29,997 - aiogram.event - INFO - Update id=612304377 is handled. Duration 37422 ms by bot id=7244501614
+2025-05-28 14:15:48,563 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 14:15:48,821 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:15:54,397 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 14:15:54,398 - __main__ - INFO - Starting bot...
+2025-05-28 14:15:54,398 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 14:15:54,553 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:16:03,472 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:16:04,116 - __main__ - INFO - Распознанный текст: Привет
+2025-05-28 14:16:04,412 - __main__ - ERROR - Ошибка отправки голосового сообщения: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 118, in _send_voice_response
+    input_file = InputFile(voice_file, filename="response.ogg")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Can't instantiate abstract class InputFile without an implementation for abstract method 'read'
+2025-05-28 14:16:04,412 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:16:04,413 - aiogram.event - INFO - Update id=612304378 is handled. Duration 952 ms by bot id=7244501614
+2025-05-28 14:16:39,609 - aiogram.event - INFO - Update id=612304379 is handled. Duration 140 ms by bot id=7244501614
+2025-05-28 14:30:46,877 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 14:30:47,130 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:31:32,578 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 14:31:32,579 - __main__ - INFO - Starting bot...
+2025-05-28 14:31:32,579 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 14:31:32,728 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:31:41,488 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:31:42,343 - __main__ - INFO - Распознанный текст: Привет
+2025-05-28 14:31:42,977 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:31:42,979 - aiogram.event - INFO - Update id=612304380 is handled. Duration 1500 ms by bot id=7244501614
+2025-05-28 14:32:10,768 - aiogram.event - INFO - Update id=612304381 is handled. Duration 14079 ms by bot id=7244501614
+2025-05-28 14:32:22,833 - aiogram.event - INFO - Update id=612304382 is handled. Duration 219 ms by bot id=7244501614
+2025-05-28 14:32:45,562 - aiogram.event - INFO - Update id=612304383 is handled. Duration 92 ms by bot id=7244501614
+2025-05-28 14:32:58,570 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1075504420
+2025-05-28 14:32:59,200 - __main__ - INFO - Распознанный текст: Расскажи про монитора
+2025-05-28 14:33:27,641 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1075504420
+2025-05-28 14:33:27,643 - aiogram.event - INFO - Update id=612304384 is handled. Duration 29063 ms by bot id=7244501614
+2025-05-28 14:33:31,388 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:33:32,134 - __main__ - INFO - Распознанный текст: Расскажи о мониторах
+2025-05-28 14:33:47,413 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:33:47,413 - aiogram.event - INFO - Update id=612304385 is handled. Duration 16030 ms by bot id=7244501614
+2025-05-28 14:37:37,773 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 14:37:38,031 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:47:10,932 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 14:47:10,933 - __main__ - INFO - Starting bot...
+2025-05-28 14:47:10,933 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 14:47:11,091 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 14:47:32,011 - aiogram.event - INFO - Update id=612304386 is handled. Duration 313 ms by bot id=7244501614
+2025-05-28 14:47:36,932 - aiogram.event - INFO - Update id=612304387 is handled. Duration 77 ms by bot id=7244501614
+2025-05-28 14:47:42,299 - aiogram.event - INFO - Update id=612304388 is handled. Duration 235 ms by bot id=7244501614
+2025-05-28 14:47:51,693 - aiogram.event - INFO - Update id=612304389 is handled. Duration 311 ms by bot id=7244501614
+2025-05-28 14:48:02,513 - aiogram.event - INFO - Update id=612304390 is handled. Duration 297 ms by bot id=7244501614
+2025-05-28 14:48:21,851 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:48:22,752 - __main__ - INFO - Распознанный текст: Сравните товары
+2025-05-28 14:49:07,989 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:49:07,990 - aiogram.event - INFO - Update id=612304391 is handled. Duration 46125 ms by bot id=7244501614
+2025-05-28 14:49:35,318 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:49:35,927 - __main__ - INFO - Распознанный текст: промо
+2025-05-28 14:50:21,027 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 14:50:21,028 - aiogram.event - INFO - Update id=612304392 is handled. Duration 45719 ms by bot id=7244501614
+2025-05-28 14:50:38,168 - aiogram.event - INFO - Update id=612304393 is handled. Duration 94 ms by bot id=7244501614
+2025-05-28 15:01:35,229 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:01:35,940 - __main__ - INFO - Распознанный текст: Сколько лет в году
+2025-05-28 15:02:17,204 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:02:17,204 - aiogram.event - INFO - Update id=612304394 is handled. Duration 41969 ms by bot id=7244501614
+2025-05-28 15:04:03,757 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:04:04,664 - __main__ - INFO - Распознанный текст: Сколько стоят деньги
+2025-05-28 15:04:46,765 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:04:46,766 - aiogram.event - INFO - Update id=612304395 is handled. Duration 43000 ms by bot id=7244501614
+2025-05-28 15:04:59,000 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:05:00,134 - __main__ - INFO - Распознанный текст: Дай мне дай мне хату
+2025-05-28 15:05:18,041 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:05:18,041 - aiogram.event - INFO - Update id=612304396 is handled. Duration 19046 ms by bot id=7244501614
+2025-05-28 15:07:11,109 - aiogram.event - INFO - Update id=612304397 is handled. Duration 40827 ms by bot id=7244501614
+2025-05-28 15:07:22,572 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:07:23,720 - __main__ - INFO - Распознанный текст: как заработать денег много-много денег
+2025-05-28 15:08:08,052 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:08:08,053 - aiogram.event - INFO - Update id=612304398 is handled. Duration 45484 ms by bot id=7244501614
+2025-05-28 15:33:54,066 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 15:33:54,329 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 15:34:00,739 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 15:34:00,740 - __main__ - INFO - Starting bot...
+2025-05-28 15:34:00,740 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 15:34:00,910 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 15:34:07,769 - aiogram.event - INFO - Update id=612304399 is handled. Duration 234 ms by bot id=7244501614
+2025-05-28 15:34:21,498 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:34:22,769 - __main__ - INFO - Распознанный текст: какой порекомендуешь монитор для дизайна
+2025-05-28 15:34:23,664 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:34:23,664 - aiogram.event - INFO - Update id=612304400 is handled. Duration 2171 ms by bot id=7244501614
+2025-05-28 15:34:43,694 - aiogram.event - INFO - Update id=612304401 is handled. Duration 94 ms by bot id=7244501614
+2025-05-28 15:34:57,719 - aiogram.event - INFO - Update id=612304402 is handled. Duration 203 ms by bot id=7244501614
+2025-05-28 15:35:09,840 - aiogram.event - INFO - Update id=612304403 is handled. Duration 141 ms by bot id=7244501614
+2025-05-28 15:35:26,818 - aiogram.event - INFO - Update id=612304404 is handled. Duration 109 ms by bot id=7244501614
+2025-05-28 15:36:02,688 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 15:36:02,953 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 15:36:08,249 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 15:36:08,250 - __main__ - INFO - Starting bot...
+2025-05-28 15:36:08,250 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 15:36:08,405 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 15:36:10,516 - aiogram.event - INFO - Update id=612304405 is handled. Duration 282 ms by bot id=7244501614
+2025-05-28 15:37:11,362 - aiogram.event - INFO - Update id=612304406 is handled. Duration 40811 ms by bot id=7244501614
+2025-05-28 15:37:24,076 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 15:37:24,337 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 15:54:13,904 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 15:54:13,905 - __main__ - INFO - Starting bot...
+2025-05-28 15:54:13,906 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 15:54:14,002 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 15:54:14,346 - asyncio - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-2' coro=<Dispatcher._polling() done, defined at C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:339> exception=TelegramNetworkError('HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)')>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\asyncio\sslproto.py", line 648, in _do_shutdown
+    self._sslobj.unwrap()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 921, in unwrap
+    return self._sslobj.shutdown()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLError: [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 177, in make_request
+    async with session.post(
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiohttp\client.py", line 1425, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiohttp\client.py", line 730, in _request
+    await resp.start(conn)
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiohttp\client_reqrep.py", line 1059, in start
+    message, payload = await protocol.read()  # type: ignore[union-attr]
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiohttp\streams.py", line 672, in read
+    await self._waiter
+aiohttp.client_exceptions.ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 362, in _polling
+    user: User = await bot.me()
+                 ^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\client\bot.py", line 350, in me
+    self._me = await self.get_me()
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\client\bot.py", line 1776, in get_me
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\client\bot.py", line 478, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\.venv\Lib\site-packages\aiogram\client\session\aiohttp.py", line 184, in make_request
+    raise TelegramNetworkError(method=method, message=f"{type(e).__name__}: {e}")
+aiogram.exceptions.TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+2025-05-28 15:54:17,715 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 15:54:17,716 - __main__ - INFO - Starting bot...
+2025-05-28 15:54:17,716 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 15:54:17,862 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 15:54:27,778 - aiogram.event - INFO - Update id=612304407 is handled. Duration 203 ms by bot id=7244501614
+2025-05-28 15:54:33,927 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:54:34,496 - __main__ - INFO - Распознанный текст: Здравствуйте
+2025-05-28 15:54:35,173 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:54:35,174 - aiogram.event - INFO - Update id=612304408 is handled. Duration 1250 ms by bot id=7244501614
+2025-05-28 15:54:48,829 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:54:49,514 - __main__ - INFO - Распознанный текст: Что такое монитор
+2025-05-28 15:54:55,565 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:54:55,566 - aiogram.event - INFO - Update id=612304409 is handled. Duration 6734 ms by bot id=7244501614
+2025-05-28 15:55:24,661 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:55:25,490 - __main__ - INFO - Распознанный текст: Дай определение слову монитор
+2025-05-28 15:55:26,262 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:55:26,262 - aiogram.event - INFO - Update id=612304410 is handled. Duration 1609 ms by bot id=7244501614
+2025-05-28 15:55:37,713 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:55:38,460 - __main__ - INFO - Распознанный текст: Какого цвета кровь у оленя
+2025-05-28 15:55:39,998 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:55:40,000 - aiogram.event - INFO - Update id=612304411 is handled. Duration 2280 ms by bot id=7244501614
+2025-05-28 15:55:51,646 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:55:52,177 - __main__ - INFO - Распознанный текст: Сколько стоят деньги
+2025-05-28 15:55:53,857 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 15:55:53,858 - aiogram.event - INFO - Update id=612304412 is handled. Duration 2217 ms by bot id=7244501614
+2025-05-28 15:56:05,621 - aiogram.event - INFO - Update id=612304413 is handled. Duration 155 ms by bot id=7244501614
+2025-05-28 15:56:15,551 - aiogram.event - INFO - Update id=612304414 is handled. Duration 77 ms by bot id=7244501614
+2025-05-28 15:56:34,018 - aiogram.event - INFO - Update id=612304415 is handled. Duration 78 ms by bot id=7244501614
+2025-05-28 15:56:37,317 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 15:56:37,574 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 16:12:34,977 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 16:12:34,978 - __main__ - INFO - Starting bot...
+2025-05-28 16:12:34,978 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 16:12:35,135 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 16:12:49,932 - aiogram.event - INFO - Update id=612304416 is handled. Duration 186 ms by bot id=7244501614
+2025-05-28 16:12:52,390 - aiogram.event - INFO - Update id=612304417 is handled. Duration 78 ms by bot id=7244501614
+2025-05-28 16:13:51,004 - aiogram.event - INFO - Update id=612304418 is handled. Duration 40422 ms by bot id=7244501614
+2025-05-28 16:14:36,905 - aiogram.event - INFO - Update id=612304419 is handled. Duration 37764 ms by bot id=7244501614
+2025-05-28 16:15:21,815 - aiogram.event - INFO - Update id=612304420 is handled. Duration 39311 ms by bot id=7244501614
+2025-05-28 16:16:50,828 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 16:16:51,854 - __main__ - INFO - Распознанный текст: Что такое монитор
+2025-05-28 16:17:08,457 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 16:17:08,458 - aiogram.event - INFO - Update id=612304421 is handled. Duration 17625 ms by bot id=7244501614
+2025-05-28 16:17:41,333 - aiogram.event - INFO - Update id=612304422 is handled. Duration 14000 ms by bot id=7244501614
+2025-05-28 16:18:46,316 - aiogram.event - INFO - Update id=612304423 is handled. Duration 39281 ms by bot id=7244501614
+2025-05-28 16:19:05,791 - aiogram.event - INFO - Update id=612304424 is handled. Duration 13516 ms by bot id=7244501614
+2025-05-28 16:19:21,495 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 16:19:22,601 - __main__ - INFO - Распознанный текст: Какой монитор порекомендуешь для дизайна
+2025-05-28 16:20:03,824 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 16:20:03,826 - aiogram.event - INFO - Update id=612304425 is handled. Duration 42327 ms by bot id=7244501614
+2025-05-28 16:20:20,781 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 16:20:22,364 - __main__ - INFO - Распознанный текст: В чём основные преимущества модели LG или Samsung
+2025-05-28 16:21:02,241 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 16:21:02,242 - aiogram.event - INFO - Update id=612304426 is handled. Duration 41469 ms by bot id=7244501614
+2025-05-28 16:21:23,751 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-28 16:21:24,868 - __main__ - INFO - Распознанный текст: Какие модели мониторов ты порекомендуешь для дизайнера
+2025-05-28 16:21:56,716 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-28 16:21:56,716 - aiogram.event - INFO - Update id=612304427 is handled. Duration 32968 ms by bot id=7244501614
+2025-05-28 16:23:26,961 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 16:23:27,235 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 16:23:39,049 - __main__ - INFO - FFmpeg работает корректно
+2025-05-28 16:23:39,050 - __main__ - INFO - Starting bot...
+2025-05-28 16:23:39,050 - aiogram.dispatcher - INFO - Start polling
+2025-05-28 16:23:39,212 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-28 16:24:38,741 - aiogram.event - INFO - Update id=612304428 is handled. Duration 39015 ms by bot id=7244501614
+2025-05-28 16:25:36,496 - aiogram.event - INFO - Update id=612304429 is handled. Duration 38094 ms by bot id=7244501614
+2025-05-28 16:26:16,438 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1075504420
+2025-05-28 16:26:17,150 - __main__ - INFO - Распознанный текст: какого цвета солнце
+2025-05-28 16:27:02,469 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1075504420
+2025-05-28 16:27:02,471 - aiogram.event - INFO - Update id=612304430 is handled. Duration 46031 ms by bot id=7244501614
+2025-05-28 16:28:20,803 - aiogram.event - INFO - Update id=612304431 is handled. Duration 38593 ms by bot id=7244501614
+2025-05-28 16:29:17,112 - aiogram.event - INFO - Update id=612304432 is handled. Duration 39125 ms by bot id=7244501614
+2025-05-28 16:29:40,962 - aiogram.event - INFO - Update id=612304433 is handled. Duration 12968 ms by bot id=7244501614
+2025-05-28 16:43:27,885 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-28 16:43:28,155 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:28:04,167 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 18:28:04,168 - __main__ - INFO - Starting bot...
+2025-05-29 18:28:04,169 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 18:28:04,390 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:28:05,957 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 18:28:06,913 - __main__ - INFO - Распознанный текст: Привет
+2025-05-29 18:28:08,326 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 18:28:08,326 - aiogram.event - INFO - Update id=612304434 is handled. Duration 2375 ms by bot id=7244501614
+2025-05-29 18:28:18,613 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 18:28:19,495 - __main__ - INFO - Распознанный текст: Как ты относишься к Гитлеру
+2025-05-29 18:29:30,271 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-29 18:29:30,271 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-29 18:29:30,855 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 18:29:30,856 - aiogram.event - INFO - Update id=612304435 is handled. Duration 72250 ms by bot id=7244501614
+2025-05-29 18:29:41,335 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-29 18:32:02,654 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 18:32:04,511 - __main__ - INFO - Распознанный текст: Как ты относишься к Ленину которому не дают землю
+2025-05-29 18:32:46,914 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 18:32:46,914 - aiogram.event - INFO - Update id=612304436 is handled. Duration 44266 ms by bot id=7244501614
+2025-05-29 18:33:17,282 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 18:33:17,545 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:38:54,203 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 18:38:54,204 - __main__ - INFO - Starting bot...
+2025-05-29 18:38:54,204 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 18:38:54,400 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:39:09,939 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 18:39:10,698 - __main__ - INFO - Распознанный текст: Привет
+2025-05-29 18:39:13,473 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 18:39:13,473 - aiogram.event - INFO - Update id=612304437 is handled. Duration 3531 ms by bot id=7244501614
+2025-05-29 18:39:39,130 - aiogram.event - INFO - Update id=612304438 is handled. Duration 12202 ms by bot id=7244501614
+2025-05-29 18:40:14,809 - aiogram.event - INFO - Update id=612304439 is handled. Duration 14139 ms by bot id=7244501614
+2025-05-29 18:40:48,750 - aiogram.event - INFO - Update id=612304440 is handled. Duration 14234 ms by bot id=7244501614
+2025-05-29 18:41:29,549 - aiogram.event - INFO - Update id=612304441 is handled. Duration 14141 ms by bot id=7244501614
+2025-05-29 18:41:37,171 - aiogram.event - INFO - Update id=612304442 is handled. Duration 94 ms by bot id=7244501614
+2025-05-29 18:41:41,827 - aiogram.event - INFO - Update id=612304443 is handled. Duration 109 ms by bot id=7244501614
+2025-05-29 18:42:05,850 - aiogram.event - INFO - Update id=612304444 is handled. Duration 10015 ms by bot id=7244501614
+2025-05-29 18:42:22,877 - aiogram.event - INFO - Update id=612304445 is handled. Duration 10031 ms by bot id=7244501614
+2025-05-29 18:42:48,198 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 18:42:48,474 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:42:54,715 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 18:42:54,716 - __main__ - INFO - Starting bot...
+2025-05-29 18:42:54,716 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 18:42:54,889 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:42:57,777 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 18:42:58,038 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:43:04,210 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 18:43:04,212 - __main__ - INFO - Starting bot...
+2025-05-29 18:43:04,212 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 18:43:04,377 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:44:23,438 - aiogram.event - INFO - Update id=612304446 is handled. Duration 78702 ms by bot id=7244501614
+2025-05-29 18:44:23,536 - aiogram.event - INFO - Update id=612304447 is handled. Duration 41561 ms by bot id=7244501614
+2025-05-29 18:46:36,587 - aiogram.event - INFO - Update id=612304448 is handled. Duration 36609 ms by bot id=7244501614
+2025-05-29 18:47:14,153 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 18:47:14,412 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:47:20,899 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 18:47:20,900 - __main__ - INFO - Starting bot...
+2025-05-29 18:47:20,900 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 18:47:21,095 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:47:21,379 - aiogram.event - INFO - Update id=612304449 is handled. Duration 219 ms by bot id=7244501614
+2025-05-29 18:47:41,915 - aiogram.event - INFO - Update id=612304450 is handled. Duration 15750 ms by bot id=7244501614
+2025-05-29 18:48:33,106 - aiogram.event - INFO - Update id=612304451 is handled. Duration 20718 ms by bot id=7244501614
+2025-05-29 18:49:00,576 - aiogram.event - INFO - Update id=612304452 is handled. Duration 20984 ms by bot id=7244501614
+2025-05-29 18:49:25,708 - aiogram.event - INFO - Update id=612304453 is handled. Duration 14765 ms by bot id=7244501614
+2025-05-29 18:50:00,303 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 18:50:00,557 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:57:42,868 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 18:57:42,870 - __main__ - INFO - Starting bot...
+2025-05-29 18:57:42,870 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 18:57:43,044 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 18:57:46,513 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 18:57:46,776 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 19:06:37,752 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 19:06:37,753 - __main__ - INFO - Starting bot...
+2025-05-29 19:06:37,753 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 19:06:37,938 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 19:07:06,018 - aiogram.event - INFO - Update id=612304454 is handled. Duration 21140 ms by bot id=7244501614
+2025-05-29 19:08:13,275 - aiogram.event - INFO - Update id=612304455 is handled. Duration 155 ms by bot id=7244501614
+2025-05-29 19:08:24,689 - aiogram.event - INFO - Update id=612304456 is handled. Duration 93 ms by bot id=7244501614
+2025-05-29 19:09:00,838 - aiogram.event - INFO - Update id=612304457 is handled. Duration 24093 ms by bot id=7244501614
+2025-05-29 19:09:23,905 - aiogram.event - INFO - Update id=612304458 is handled. Duration 108 ms by bot id=7244501614
+2025-05-29 19:09:45,726 - aiogram.event - INFO - Update id=612304459 is handled. Duration 16781 ms by bot id=7244501614
+2025-05-29 19:10:18,646 - aiogram.event - INFO - Update id=612304460 is handled. Duration 16828 ms by bot id=7244501614
+2025-05-29 19:10:58,417 - aiogram.event - INFO - Update id=612304461 is handled. Duration 17750 ms by bot id=7244501614
+2025-05-29 19:11:36,698 - aiogram.event - INFO - Update id=612304462 is handled. Duration 17172 ms by bot id=7244501614
+2025-05-29 19:11:45,784 - aiogram.event - INFO - Update id=612304463 is handled. Duration 218 ms by bot id=7244501614
+2025-05-29 19:12:03,264 - aiogram.event - INFO - Update id=612304464 is handled. Duration 110 ms by bot id=7244501614
+2025-05-29 19:12:09,205 - aiogram.event - INFO - Update id=612304465 is handled. Duration 93 ms by bot id=7244501614
+2025-05-29 19:12:27,386 - aiogram.event - INFO - Update id=612304466 is handled. Duration 16688 ms by bot id=7244501614
+2025-05-29 19:12:38,393 - aiogram.event - INFO - Update id=612304467 is handled. Duration 125 ms by bot id=7244501614
+2025-05-29 19:13:08,697 - aiogram.event - INFO - Update id=612304468 is handled. Duration 17125 ms by bot id=7244501614
+2025-05-29 19:14:06,535 - aiogram.event - INFO - Update id=612304469 is handled. Duration 17483 ms by bot id=7244501614
+2025-05-29 19:16:23,587 - aiogram.event - INFO - Update id=612304470 is handled. Duration 17765 ms by bot id=7244501614
+2025-05-29 19:16:53,262 - aiogram.event - INFO - Update id=612304471 is handled. Duration 17047 ms by bot id=7244501614
+2025-05-29 19:17:26,083 - aiogram.event - INFO - Update id=612304472 is handled. Duration 17218 ms by bot id=7244501614
+2025-05-29 19:18:09,813 - aiogram.event - INFO - Update id=612304473 is handled. Duration 17139 ms by bot id=7244501614
+2025-05-29 19:18:18,968 - aiogram.event - INFO - Update id=612304474 is handled. Duration 93 ms by bot id=7244501614
+2025-05-29 19:18:30,911 - aiogram.event - INFO - Update id=612304475 is handled. Duration 77 ms by bot id=7244501614
+2025-05-29 19:18:53,612 - aiogram.event - INFO - Update id=612304476 is handled. Duration 16953 ms by bot id=7244501614
+2025-05-29 19:19:09,631 - aiogram.event - INFO - Update id=612304477 is handled. Duration 172 ms by bot id=7244501614
+2025-05-29 19:19:32,322 - aiogram.event - INFO - Update id=612304478 is handled. Duration 16530 ms by bot id=7244501614
+2025-05-29 19:19:57,762 - aiogram.event - INFO - Update id=612304479 is handled. Duration 16688 ms by bot id=7244501614
+2025-05-29 19:20:18,412 - aiogram.event - INFO - Update id=612304480 is handled. Duration 16718 ms by bot id=7244501614
+2025-05-29 19:20:49,900 - aiogram.event - INFO - Update id=612304481 is handled. Duration 202 ms by bot id=7244501614
+2025-05-29 19:21:10,291 - aiogram.event - INFO - Update id=612304482 is handled. Duration 16953 ms by bot id=7244501614
+2025-05-29 19:21:10,370 - aiogram.event - INFO - Update id=612304483 is handled. Duration 234 ms by bot id=7244501614
+2025-05-29 19:21:38,171 - aiogram.event - INFO - Update id=612304484 is handled. Duration 17266 ms by bot id=7244501614
+2025-05-29 19:21:57,511 - aiogram.event - INFO - Update id=612304485 is handled. Duration 17860 ms by bot id=7244501614
+2025-05-29 19:22:07,570 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 19:22:07,822 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 19:22:30,333 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 19:22:30,334 - __main__ - INFO - Starting bot...
+2025-05-29 19:22:30,334 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 19:22:30,529 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 19:23:09,601 - aiogram.event - INFO - Update id=612304486 is handled. Duration 234 ms by bot id=7244501614
+2025-05-29 19:23:14,640 - aiogram.event - INFO - Update id=612304487 is handled. Duration 110 ms by bot id=7244501614
+2025-05-29 19:25:11,502 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-29 19:25:11,502 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-29 19:25:11,690 - aiogram.event - INFO - Update id=612304488 is handled. Duration 116031 ms by bot id=7244501614
+2025-05-29 19:25:22,576 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-29 19:27:25,560 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-29 19:27:25,561 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-29 19:27:25,773 - aiogram.event - INFO - Update id=612304489 is handled. Duration 120233 ms by bot id=7244501614
+2025-05-29 19:27:36,629 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-29 19:30:05,995 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2025-05-29 19:30:05,995 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-29 19:30:06,258 - aiogram.event - INFO - Update id=612304490 is handled. Duration 132438 ms by bot id=7244501614
+2025-05-29 19:30:17,060 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-29 19:31:36,855 - aiogram.event - INFO - Update id=612304491 is handled. Duration 234 ms by bot id=7244501614
+2025-05-29 19:31:42,415 - aiogram.event - INFO - Update id=612304492 is handled. Duration 203 ms by bot id=7244501614
+2025-05-29 20:14:40,663 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 20:14:40,664 - __main__ - INFO - Starting bot...
+2025-05-29 20:14:40,665 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 20:14:40,853 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 20:14:46,907 - __main__ - ERROR - Text processing error: Model file intent_model.joblib not found
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 412, in _process_text_message
+    response = self.neuro.get_response(text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\neyro.py", line 132, in get_response
+    intent, confidence = self.intent_classifier.predict(text)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\intent_classifier.py", line 82, in predict
+    self.load_model()
+  File "C:\Users\User\PycharmProjects\smart-tg\intent_classifier.py", line 75, in load_model
+    raise FileNotFoundError(f"Model file {self.model_path} not found")
+FileNotFoundError: Model file intent_model.joblib not found
+2025-05-29 20:14:47,185 - aiogram.event - INFO - Update id=612304494 is handled. Duration 281 ms by bot id=7244501614
+2025-05-29 20:14:55,199 - __main__ - ERROR - Text processing error: Model file intent_model.joblib not found
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 412, in _process_text_message
+    response = self.neuro.get_response(text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\neyro.py", line 132, in get_response
+    intent, confidence = self.intent_classifier.predict(text)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\intent_classifier.py", line 82, in predict
+    self.load_model()
+  File "C:\Users\User\PycharmProjects\smart-tg\intent_classifier.py", line 75, in load_model
+    raise FileNotFoundError(f"Model file {self.model_path} not found")
+FileNotFoundError: Model file intent_model.joblib not found
+2025-05-29 20:14:55,282 - aiogram.event - INFO - Update id=612304495 is handled. Duration 77 ms by bot id=7244501614
+2025-05-29 20:15:01,784 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 20:15:02,572 - __main__ - INFO - Распознанный текст: Привет
+2025-05-29 20:15:02,572 - __main__ - ERROR - Voice processing error: Model file intent_model.joblib not found
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 389, in _process_voice_message
+    response = self.neuro.get_response(text)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\neyro.py", line 132, in get_response
+    intent, confidence = self.intent_classifier.predict(text)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\smart-tg\intent_classifier.py", line 82, in predict
+    self.load_model()
+  File "C:\Users\User\PycharmProjects\smart-tg\intent_classifier.py", line 75, in load_model
+    raise FileNotFoundError(f"Model file {self.model_path} not found")
+FileNotFoundError: Model file intent_model.joblib not found
+2025-05-29 20:15:02,643 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 20:15:02,644 - aiogram.event - INFO - Update id=612304496 is handled. Duration 860 ms by bot id=7244501614
+2025-05-29 20:15:06,303 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 20:15:06,557 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 20:24:32,785 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 20:24:32,786 - __main__ - INFO - Starting bot...
+2025-05-29 20:24:32,786 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 20:24:32,979 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 20:24:49,610 - aiogram.event - INFO - Update id=612304497 is handled. Duration 250 ms by bot id=7244501614
+2025-05-29 20:25:06,489 - aiogram.event - INFO - Update id=612304498 is handled. Duration 125 ms by bot id=7244501614
+2025-05-29 20:25:35,877 - aiogram.event - INFO - Update id=612304499 is handled. Duration 78 ms by bot id=7244501614
+2025-05-29 20:25:41,057 - aiogram.event - INFO - Update id=612304500 is handled. Duration 92 ms by bot id=7244501614
+2025-05-29 20:25:52,556 - aiogram.event - INFO - Update id=612304501 is handled. Duration 155 ms by bot id=7244501614
+2025-05-29 20:26:05,857 - aiogram.event - INFO - Update id=612304502 is handled. Duration 93 ms by bot id=7244501614
+2025-05-29 20:26:12,676 - aiogram.event - INFO - Update id=612304503 is handled. Duration 93 ms by bot id=7244501614
+2025-05-29 20:26:16,780 - aiogram.event - INFO - Update id=612304504 is handled. Duration 186 ms by bot id=7244501614
+2025-05-29 20:26:17,566 - aiogram.event - INFO - Update id=612304505 is handled. Duration 155 ms by bot id=7244501614
+2025-05-29 20:26:18,346 - aiogram.event - INFO - Update id=612304506 is handled. Duration 110 ms by bot id=7244501614
+2025-05-29 20:26:19,446 - aiogram.event - INFO - Update id=612304507 is handled. Duration 109 ms by bot id=7244501614
+2025-05-29 20:26:20,556 - aiogram.event - INFO - Update id=612304508 is handled. Duration 155 ms by bot id=7244501614
+2025-05-29 20:26:21,579 - aiogram.event - INFO - Update id=612304509 is handled. Duration 187 ms by bot id=7244501614
+2025-05-29 20:26:22,696 - aiogram.event - INFO - Update id=612304510 is handled. Duration 187 ms by bot id=7244501614
+2025-05-29 20:26:28,957 - aiogram.event - INFO - Update id=612304511 is handled. Duration 94 ms by bot id=7244501614
+2025-05-29 20:26:35,891 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 20:26:36,149 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 20:28:45,753 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 20:28:45,755 - __main__ - INFO - Starting bot...
+2025-05-29 20:28:45,755 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 20:28:45,977 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 20:28:54,289 - aiogram.event - INFO - Update id=612304512 is handled. Duration 235 ms by bot id=7244501614
+2025-05-29 20:28:59,478 - aiogram.event - INFO - Update id=612304513 is handled. Duration 139 ms by bot id=7244501614
+2025-05-29 20:29:04,185 - aiogram.event - INFO - Update id=612304514 is handled. Duration 77 ms by bot id=7244501614
+2025-05-29 20:36:40,278 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 20:36:40,545 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 20:43:08,837 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 20:43:08,839 - __main__ - INFO - Starting bot...
+2025-05-29 20:43:08,839 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 20:43:09,039 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 20:43:17,030 - aiogram.event - INFO - Update id=612304515 is handled. Duration 202 ms by bot id=7244501614
+2025-05-29 20:43:53,310 - aiogram.event - INFO - Update id=612304516 is handled. Duration 24592 ms by bot id=7244501614
+2025-05-29 20:48:18,608 - aiogram.event - INFO - Update id=612304517 is handled. Duration 20468 ms by bot id=7244501614
+2025-05-29 20:49:21,098 - aiogram.event - INFO - Update id=612304518 is handled. Duration 19532 ms by bot id=7244501614
+2025-05-29 20:50:53,977 - aiogram.event - INFO - Update id=612304519 is handled. Duration 21030 ms by bot id=7244501614
+2025-05-29 20:51:26,588 - aiogram.event - INFO - Update id=612304520 is handled. Duration 21265 ms by bot id=7244501614
+2025-05-29 20:54:59,005 - aiogram.event - INFO - Update id=612304521 is handled. Duration 21063 ms by bot id=7244501614
+2025-05-29 20:55:27,036 - aiogram.event - INFO - Update id=612304522 is handled. Duration 20936 ms by bot id=7244501614
+2025-05-29 21:02:44,783 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 21:02:45,045 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 21:02:52,089 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 21:02:52,090 - __main__ - INFO - Starting bot...
+2025-05-29 21:02:52,090 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 21:02:52,271 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 21:02:56,204 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 21:02:56,959 - __main__ - INFO - Распознанный текст: Привет
+2025-05-29 21:02:57,553 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 21:02:57,553 - aiogram.event - INFO - Update id=612304523 is handled. Duration 1343 ms by bot id=7244501614
+2025-05-29 21:03:09,139 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 21:03:09,905 - __main__ - INFO - Распознанный текст: Что такое монитор
+2025-05-29 21:03:28,404 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 21:03:28,405 - aiogram.event - INFO - Update id=612304524 is handled. Duration 19264 ms by bot id=7244501614
+2025-05-29 21:03:59,494 - aiogram.event - INFO - Update id=612304525 is handled. Duration 16609 ms by bot id=7244501614
+2025-05-29 21:04:45,810 - aiogram.event - INFO - Update id=612304526 is handled. Duration 16936 ms by bot id=7244501614
+2025-05-29 21:05:22,911 - aiogram.event - INFO - Update id=612304527 is handled. Duration 16734 ms by bot id=7244501614
+2025-05-29 21:06:03,191 - aiogram.event - INFO - Update id=612304528 is handled. Duration 16625 ms by bot id=7244501614
+2025-05-29 21:12:42,318 - aiogram.event - INFO - Update id=612304529 is handled. Duration 16827 ms by bot id=7244501614
+2025-05-29 21:13:01,888 - aiogram.event - INFO - Update id=612304530 is handled. Duration 16579 ms by bot id=7244501614
+2025-05-29 21:22:43,419 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 21:22:43,677 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 22:51:31,856 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 22:51:31,857 - __main__ - INFO - Starting bot...
+2025-05-29 22:51:31,857 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 22:51:32,044 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 22:52:33,115 - aiogram.event - INFO - Update id=612304531 is handled. Duration 250 ms by bot id=7244501614
+2025-05-29 22:53:06,385 - aiogram.event - INFO - Update id=612304532 is handled. Duration 22453 ms by bot id=7244501614
+2025-05-29 22:53:36,004 - aiogram.event - INFO - Update id=612304533 is handled. Duration 17687 ms by bot id=7244501614
+2025-05-29 22:54:00,474 - aiogram.event - INFO - Update id=612304534 is handled. Duration 17547 ms by bot id=7244501614
+2025-05-29 22:54:12,118 - aiogram.event - INFO - Update id=612304535 is handled. Duration 78 ms by bot id=7244501614
+2025-05-29 22:54:15,371 - aiogram.event - INFO - Update id=612304536 is handled. Duration 78 ms by bot id=7244501614
+2025-05-29 22:54:39,844 - aiogram.event - INFO - Update id=612304537 is handled. Duration 17281 ms by bot id=7244501614
+2025-05-29 22:55:03,231 - aiogram.event - INFO - Update id=612304538 is handled. Duration 17312 ms by bot id=7244501614
+2025-05-29 22:56:20,662 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 22:56:20,926 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 22:56:27,778 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 22:56:27,779 - __main__ - INFO - Starting bot...
+2025-05-29 22:56:27,780 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 22:56:27,953 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 22:56:39,732 - aiogram.event - INFO - Update id=612304539 is handled. Duration 203 ms by bot id=7244501614
+2025-05-29 22:57:10,016 - aiogram.event - INFO - Update id=612304540 is handled. Duration 25063 ms by bot id=7244501614
+2025-05-29 22:58:12,755 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 22:58:13,014 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:20:46,029 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 23:20:46,030 - __main__ - INFO - Starting bot...
+2025-05-29 23:20:46,030 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 23:20:46,215 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:20:55,266 - aiogram.event - INFO - Update id=612304541 is handled. Duration 234 ms by bot id=7244501614
+2025-05-29 23:21:20,927 - aiogram.event - INFO - Update id=612304542 is handled. Duration 18061 ms by bot id=7244501614
+2025-05-29 23:21:49,553 - aiogram.event - INFO - Update id=612304543 is handled. Duration 139 ms by bot id=7244501614
+2025-05-29 23:22:19,455 - aiogram.event - INFO - Update id=612304544 is handled. Duration 17514 ms by bot id=7244501614
+2025-05-29 23:25:47,978 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 23:25:48,233 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:26:01,053 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 23:26:01,054 - __main__ - INFO - Starting bot...
+2025-05-29 23:26:01,054 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 23:26:01,232 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:26:07,292 - aiogram.event - INFO - Update id=612304545 is handled. Duration 219 ms by bot id=7244501614
+2025-05-29 23:26:29,923 - aiogram.event - INFO - Update id=612304546 is handled. Duration 18030 ms by bot id=7244501614
+2025-05-29 23:27:58,080 - aiogram.event - INFO - Update id=612304547 is handled. Duration 92 ms by bot id=7244501614
+2025-05-29 23:28:08,229 - aiogram.event - INFO - Update id=612304548 is handled. Duration 78 ms by bot id=7244501614
+2025-05-29 23:28:17,699 - aiogram.event - INFO - Update id=612304549 is handled. Duration 62 ms by bot id=7244501614
+2025-05-29 23:28:21,471 - aiogram.event - INFO - Update id=612304550 is handled. Duration 94 ms by bot id=7244501614
+2025-05-29 23:28:26,721 - aiogram.event - INFO - Update id=612304551 is handled. Duration 141 ms by bot id=7244501614
+2025-05-29 23:29:31,690 - aiogram.event - INFO - Update id=612304552 is handled. Duration 17750 ms by bot id=7244501614
+2025-05-29 23:30:01,009 - aiogram.event - INFO - Update id=612304553 is handled. Duration 17734 ms by bot id=7244501614
+2025-05-29 23:31:10,138 - aiogram.event - INFO - Update id=612304554 is handled. Duration 53780 ms by bot id=7244501614
+2025-05-29 23:32:56,829 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 23:32:57,090 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:33:03,918 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 23:33:03,919 - __main__ - INFO - Starting bot...
+2025-05-29 23:33:03,919 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 23:33:04,086 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:33:04,338 - aiogram.event - INFO - Update id=612304555 is handled. Duration 186 ms by bot id=7244501614
+2025-05-29 23:33:06,624 - aiogram.event - INFO - Update id=612304556 is handled. Duration 93 ms by bot id=7244501614
+2025-05-29 23:33:08,771 - aiogram.event - INFO - Update id=612304557 is handled. Duration 94 ms by bot id=7244501614
+2025-05-29 23:33:11,324 - aiogram.event - INFO - Update id=612304558 is handled. Duration 77 ms by bot id=7244501614
+2025-05-29 23:33:12,659 - aiogram.event - INFO - Update id=612304559 is handled. Duration 79 ms by bot id=7244501614
+2025-05-29 23:34:06,396 - aiogram.event - INFO - Update id=612304560 is handled. Duration 19390 ms by bot id=7244501614
+2025-05-29 23:34:37,957 - aiogram.event - INFO - Update id=612304561 is handled. Duration 18233 ms by bot id=7244501614
+2025-05-29 23:35:07,738 - aiogram.event - INFO - Update id=612304562 is handled. Duration 18110 ms by bot id=7244501614
+2025-05-29 23:35:33,652 - aiogram.event - INFO - Update id=612304563 is handled. Duration 18719 ms by bot id=7244501614
+2025-05-29 23:36:25,036 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 23:36:25,299 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:37:42,766 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 23:37:42,767 - __main__ - INFO - Starting bot...
+2025-05-29 23:37:42,767 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 23:37:42,963 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:38:01,383 - aiogram.event - INFO - Update id=612304564 is handled. Duration 218 ms by bot id=7244501614
+2025-05-29 23:38:46,334 - aiogram.event - INFO - Update id=612304565 is handled. Duration 17858 ms by bot id=7244501614
+2025-05-29 23:39:25,533 - aiogram.event - INFO - Update id=612304566 is handled. Duration 17687 ms by bot id=7244501614
+2025-05-29 23:40:02,073 - aiogram.event - INFO - Update id=612304567 is handled. Duration 17218 ms by bot id=7244501614
+2025-05-29 23:40:27,941 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 23:40:28,901 - __main__ - INFO - Распознанный текст: Расскажи анекдот
+2025-05-29 23:40:51,422 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 23:40:51,422 - aiogram.event - INFO - Update id=612304568 is handled. Duration 23484 ms by bot id=7244501614
+2025-05-29 23:41:10,996 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 23:41:11,256 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:42:15,195 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 23:42:15,196 - __main__ - INFO - Starting bot...
+2025-05-29 23:42:15,196 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 23:42:15,360 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:42:42,901 - aiogram.event - INFO - Update id=612304569 is handled. Duration 17828 ms by bot id=7244501614
+2025-05-29 23:43:26,990 - aiogram.event - INFO - Update id=612304570 is handled. Duration 17328 ms by bot id=7244501614
+2025-05-29 23:43:57,240 - aiogram.event - INFO - Update id=612304571 is handled. Duration 17469 ms by bot id=7244501614
+2025-05-29 23:44:17,029 - aiogram.event - INFO - Update id=612304572 is handled. Duration 18000 ms by bot id=7244501614
+2025-05-29 23:45:07,459 - aiogram.event - INFO - Update id=612304573 is handled. Duration 18045 ms by bot id=7244501614
+2025-05-29 23:45:45,609 - aiogram.event - INFO - Update id=612304574 is handled. Duration 17750 ms by bot id=7244501614
+2025-05-29 23:46:21,779 - aiogram.event - INFO - Update id=612304575 is handled. Duration 17531 ms by bot id=7244501614
+2025-05-29 23:47:05,457 - aiogram.event - INFO - Update id=612304576 is handled. Duration 17467 ms by bot id=7244501614
+2025-05-29 23:47:33,787 - aiogram.event - INFO - Update id=612304577 is handled. Duration 17375 ms by bot id=7244501614
+2025-05-29 23:48:09,387 - aiogram.event - INFO - Update id=612304578 is handled. Duration 17828 ms by bot id=7244501614
+2025-05-29 23:48:39,179 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 23:48:39,365 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+2025-05-29 23:48:39,365 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-29 23:48:39,435 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:48:55,261 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 23:48:55,262 - __main__ - INFO - Starting bot...
+2025-05-29 23:48:55,262 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 23:48:55,446 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:49:21,687 - aiogram.event - INFO - Update id=612304579 is handled. Duration 18000 ms by bot id=7244501614
+2025-05-29 23:49:41,134 - aiogram.event - INFO - Update id=612304580 is handled. Duration 78 ms by bot id=7244501614
+2025-05-29 23:50:07,446 - aiogram.event - INFO - Update id=612304581 is handled. Duration 17562 ms by bot id=7244501614
+2025-05-29 23:50:23,503 - aiogram.event - INFO - Update id=612304582 is handled. Duration 139 ms by bot id=7244501614
+2025-05-29 23:50:54,524 - aiogram.event - INFO - Update id=612304583 is handled. Duration 18421 ms by bot id=7244501614
+2025-05-29 23:51:33,267 - aiogram.event - INFO - Update id=612304584 is handled. Duration 17625 ms by bot id=7244501614
+2025-05-29 23:51:41,034 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-29 23:51:41,282 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:53:10,037 - __main__ - INFO - FFmpeg работает корректно
+2025-05-29 23:53:10,038 - __main__ - INFO - Starting bot...
+2025-05-29 23:53:10,038 - aiogram.dispatcher - INFO - Start polling
+2025-05-29 23:53:10,202 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-29 23:53:13,633 - aiogram.event - INFO - Update id=612304585 is handled. Duration 218 ms by bot id=7244501614
+2025-05-29 23:53:35,848 - aiogram.event - INFO - Update id=612304586 is handled. Duration 18000 ms by bot id=7244501614
+2025-05-29 23:54:08,445 - aiogram.event - INFO - Update id=612304587 is handled. Duration 17515 ms by bot id=7244501614
+2025-05-29 23:54:15,800 - aiogram.event - INFO - Update id=612304588 is handled. Duration 94 ms by bot id=7244501614
+2025-05-29 23:54:20,171 - aiogram.event - INFO - Update id=612304589 is handled. Duration 139 ms by bot id=7244501614
+2025-05-29 23:54:41,062 - aiogram.event - INFO - Update id=612304590 is handled. Duration 17312 ms by bot id=7244501614
+2025-05-29 23:55:12,301 - aiogram.event - INFO - Update id=612304591 is handled. Duration 18686 ms by bot id=7244501614
+2025-05-29 23:55:36,412 - aiogram.event - INFO - Update id=612304592 is handled. Duration 17031 ms by bot id=7244501614
+2025-05-29 23:55:42,782 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 23:55:45,559 - __main__ - INFO - Распознанный текст: Я тебя сейчас отключу
+2025-05-29 23:56:05,931 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 23:56:05,932 - aiogram.event - INFO - Update id=612304593 is handled. Duration 23139 ms by bot id=7244501614
+2025-05-29 23:56:59,360 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 23:57:01,560 - __main__ - WARNING - Речь не распознана
+2025-05-29 23:57:01,560 - __main__ - ERROR - Voice processing failed: Не удалось распознать речь
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\smart-tg\cmd\main.py", line 362, in _handle_voice
+    raise ValueError("Не удалось распознать речь")
+ValueError: Не удалось распознать речь
+2025-05-29 23:57:01,630 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 23:57:01,631 - aiogram.event - INFO - Update id=612304594 is handled. Duration 2264 ms by bot id=7244501614
+2025-05-29 23:57:09,551 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-29 23:57:10,599 - __main__ - INFO - Распознанный текст: массовка масоны писюн
+2025-05-29 23:57:31,121 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-29 23:57:31,121 - aiogram.event - INFO - Update id=612304595 is handled. Duration 21563 ms by bot id=7244501614
+2025-05-29 23:58:36,981 - aiogram.event - INFO - Update id=612304596 is handled. Duration 78 ms by bot id=7244501614
+2025-05-29 23:58:43,519 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1077213017
+2025-05-29 23:58:44,887 - __main__ - INFO - Распознанный текст: бим бим бом бом бом бом
+2025-05-29 23:59:04,560 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1077213017
+2025-05-29 23:59:04,560 - aiogram.event - INFO - Update id=612304597 is handled. Duration 21046 ms by bot id=7244501614
+2025-05-30 00:06:34,013 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:06:35,133 - __main__ - INFO - Распознанный текст: Эй ори Брат ты что сломался
+2025-05-30 00:06:54,734 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:06:54,734 - aiogram.event - INFO - Update id=612304598 is handled. Duration 20719 ms by bot id=7244501614
+2025-05-30 00:08:16,581 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 00:08:16,838 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 00:08:23,303 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 00:08:23,304 - __main__ - INFO - Starting bot...
+2025-05-30 00:08:23,304 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 00:08:23,481 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 00:08:32,936 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:08:33,899 - __main__ - INFO - Распознанный текст: Привет Расскажи о себе
+2025-05-30 00:08:34,372 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:08:34,372 - aiogram.event - INFO - Update id=612304599 is handled. Duration 1453 ms by bot id=7244501614
+2025-05-30 00:08:46,941 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:08:48,223 - __main__ - INFO - Распознанный текст: Да хочу узнать о ваших мониторах какой порекомендуете
+2025-05-30 00:09:09,302 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:09:09,302 - aiogram.event - INFO - Update id=612304600 is handled. Duration 22359 ms by bot id=7244501614
+2025-05-30 00:09:27,790 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:09:28,919 - __main__ - INFO - Распознанный текст: Кто такой Гитлер и как ты к нему относишься
+2025-05-30 00:09:48,251 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:09:48,251 - aiogram.event - INFO - Update id=612304601 is handled. Duration 20468 ms by bot id=7244501614
+2025-05-30 00:10:06,295 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:10:07,178 - __main__ - INFO - Распознанный текст: а что ещё сделал Гитлер
+2025-05-30 00:10:25,059 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:10:25,059 - aiogram.event - INFO - Update id=612304602 is handled. Duration 18780 ms by bot id=7244501614
+2025-05-30 00:10:38,179 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:10:38,939 - __main__ - INFO - Распознанный текст: а что такое монитор
+2025-05-30 00:10:57,141 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:10:57,141 - aiogram.event - INFO - Update id=612304603 is handled. Duration 18969 ms by bot id=7244501614
+2025-05-30 00:11:20,898 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:11:21,749 - __main__ - INFO - Распознанный текст: Какой монитор ты мне можешь порекомендовать
+2025-05-30 00:11:45,099 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 00:11:45,100 - aiogram.event - INFO - Update id=612304604 is handled. Duration 24203 ms by bot id=7244501614
+2025-05-30 00:12:40,339 - aiogram.event - INFO - Update id=612304605 is handled. Duration 17577 ms by bot id=7244501614
+2025-05-30 00:13:38,037 - aiogram.event - INFO - Update id=612304606 is handled. Duration 17704 ms by bot id=7244501614
+2025-05-30 00:14:20,047 - aiogram.event - INFO - Update id=612304607 is handled. Duration 17594 ms by bot id=7244501614
+2025-05-30 00:14:39,765 - aiogram.event - INFO - Update id=612304608 is handled. Duration 78 ms by bot id=7244501614
+2025-05-30 00:14:47,718 - aiogram.event - INFO - Update id=612304609 is handled. Duration 125 ms by bot id=7244501614
+2025-05-30 00:14:49,314 - aiogram.event - INFO - Update id=612304610 is handled. Duration 202 ms by bot id=7244501614
+2025-05-30 00:15:23,066 - aiogram.event - INFO - Update id=612304611 is handled. Duration 17546 ms by bot id=7244501614
+2025-05-30 00:15:48,536 - aiogram.event - INFO - Update id=612304612 is handled. Duration 17375 ms by bot id=7244501614
+2025-05-30 00:16:09,169 - aiogram.event - INFO - Update id=612304613 is handled. Duration 17531 ms by bot id=7244501614
+2025-05-30 00:16:53,507 - aiogram.event - INFO - Update id=612304614 is handled. Duration 17514 ms by bot id=7244501614
+2025-05-30 00:17:56,236 - aiogram.event - INFO - Update id=612304615 is handled. Duration 20922 ms by bot id=7244501614
+2025-05-30 00:18:09,201 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 00:18:09,457 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 00:19:01,001 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 00:19:01,002 - __main__ - INFO - Starting bot...
+2025-05-30 00:19:01,002 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 00:19:01,202 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 00:19:09,975 - aiogram.event - INFO - Update id=612304616 is handled. Duration 203 ms by bot id=7244501614
+2025-05-30 00:19:15,653 - aiogram.event - INFO - Update id=612304617 is handled. Duration 94 ms by bot id=7244501614
+2025-05-30 00:19:42,543 - aiogram.event - INFO - Update id=612304618 is handled. Duration 18140 ms by bot id=7244501614
+2025-05-30 00:20:04,092 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 00:20:04,362 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 16:08:19,111 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 16:08:19,112 - __main__ - INFO - Starting bot...
+2025-05-30 16:08:19,113 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 16:08:19,261 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 16:08:35,014 - aiogram.event - INFO - Update id=612304619 is handled. Duration 204 ms by bot id=7244501614
+2025-05-30 16:09:03,873 - aiogram.event - INFO - Update id=612304620 is handled. Duration 22015 ms by bot id=7244501614
+2025-05-30 16:09:15,290 - aiogram.event - INFO - Update id=612304621 is handled. Duration 171 ms by bot id=7244501614
+2025-05-30 16:09:47,939 - aiogram.event - INFO - Update id=612304622 is handled. Duration 15967 ms by bot id=7244501614
+2025-05-30 16:10:23,059 - aiogram.event - INFO - Update id=612304623 is handled. Duration 16155 ms by bot id=7244501614
+2025-05-30 16:28:40,732 - aiogram.event - INFO - Update id=612304624 is handled. Duration 16484 ms by bot id=7244501614
+2025-05-30 16:29:29,250 - aiogram.event - INFO - Update id=612304625 is handled. Duration 16125 ms by bot id=7244501614
+2025-05-30 16:29:40,647 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 16:29:41,267 - __main__ - INFO - Распознанный текст: Как у тебя дела
+2025-05-30 16:30:01,057 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 16:30:01,058 - aiogram.event - INFO - Update id=612304626 is handled. Duration 20405 ms by bot id=7244501614
+2025-05-30 16:32:26,440 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 16:32:26,699 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 16:32:33,373 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 16:32:33,374 - __main__ - INFO - Starting bot...
+2025-05-30 16:32:33,374 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 16:32:33,517 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 16:32:34,754 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 16:32:35,612 - __main__ - INFO - Распознанный текст: Что такое монитор
+2025-05-30 16:32:36,129 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 16:32:36,129 - aiogram.event - INFO - Update id=612304627 is handled. Duration 1375 ms by bot id=7244501614
+2025-05-30 16:33:00,833 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 16:33:01,078 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 16:33:07,524 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 16:33:07,548 - __main__ - INFO - Starting bot...
+2025-05-30 16:33:07,548 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 16:33:07,709 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 16:33:07,761 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 16:33:08,595 - __main__ - INFO - Распознанный текст: Что такое монитор
+2025-05-30 16:33:22,062 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 16:33:22,063 - aiogram.event - INFO - Update id=612304628 is handled. Duration 14295 ms by bot id=7244501614
+2025-05-30 16:33:56,735 - aiogram.event - INFO - Update id=612304629 is handled. Duration 11234 ms by bot id=7244501614
+2025-05-30 16:34:25,002 - aiogram.event - INFO - Update id=612304630 is handled. Duration 11625 ms by bot id=7244501614
+2025-05-30 16:34:30,276 - aiogram.event - INFO - Update id=612304631 is handled. Duration 77 ms by bot id=7244501614
+2025-05-30 16:34:53,424 - aiogram.event - INFO - Update id=612304632 is handled. Duration 10937 ms by bot id=7244501614
+2025-05-30 16:36:05,622 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 16:36:05,891 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 16:36:12,605 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 16:36:12,606 - __main__ - INFO - Starting bot...
+2025-05-30 16:36:12,606 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 16:36:12,759 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 16:36:29,195 - aiogram.event - INFO - Update id=612304633 is handled. Duration 11297 ms by bot id=7244501614
+2025-05-30 16:36:55,033 - aiogram.event - INFO - Update id=612304634 is handled. Duration 11234 ms by bot id=7244501614
+2025-05-30 16:54:50,498 - aiogram.event - INFO - Update id=612304635 is handled. Duration 78 ms by bot id=7244501614
+2025-05-30 16:55:23,870 - aiogram.event - INFO - Update id=612304636 is handled. Duration 12313 ms by bot id=7244501614
+2025-05-30 17:06:56,351 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 17:06:56,620 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:04:45,968 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 18:04:45,969 - __main__ - INFO - Starting bot...
+2025-05-30 18:04:45,969 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 18:04:46,121 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:04:53,978 - aiogram.event - INFO - Update id=612304637 is handled. Duration 328 ms by bot id=7244501614
+2025-05-30 18:05:17,812 - aiogram.event - INFO - Update id=612304638 is handled. Duration 16702 ms by bot id=7244501614
+2025-05-30 18:05:53,525 - aiogram.event - INFO - Update id=612304639 is handled. Duration 11625 ms by bot id=7244501614
+2025-05-30 18:07:08,092 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 18:07:08,354 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:07:15,055 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 18:07:15,056 - __main__ - INFO - Starting bot...
+2025-05-30 18:07:15,056 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 18:07:15,201 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:07:40,236 - aiogram.event - INFO - Update id=612304640 is handled. Duration 17530 ms by bot id=7244501614
+2025-05-30 18:08:21,100 - aiogram.event - INFO - Update id=612304641 is handled. Duration 16984 ms by bot id=7244501614
+2025-05-30 18:08:32,767 - aiogram.event - INFO - Update id=612304642 is handled. Duration 94 ms by bot id=7244501614
+2025-05-30 18:09:09,508 - aiogram.event - INFO - Update id=612304643 is handled. Duration 17421 ms by bot id=7244501614
+2025-05-30 18:09:32,836 - aiogram.event - INFO - Update id=612304644 is handled. Duration 17469 ms by bot id=7244501614
+2025-05-30 18:10:31,928 - aiogram.event - INFO - Update id=612304645 is handled. Duration 17264 ms by bot id=7244501614
+2025-05-30 18:11:03,946 - aiogram.event - INFO - Update id=612304646 is handled. Duration 17109 ms by bot id=7244501614
+2025-05-30 18:11:29,457 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 18:11:29,706 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:12:17,095 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 18:12:17,096 - __main__ - INFO - Starting bot...
+2025-05-30 18:12:17,097 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 18:12:17,250 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:12:43,689 - aiogram.event - INFO - Update id=612304647 is handled. Duration 17811 ms by bot id=7244501614
+2025-05-30 18:13:01,491 - aiogram.event - INFO - Update id=612304648 is handled. Duration 17313 ms by bot id=7244501614
+2025-05-30 18:15:16,707 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 18:15:16,964 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:15:23,639 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 18:15:23,640 - __main__ - INFO - Starting bot...
+2025-05-30 18:15:23,640 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 18:15:23,786 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:15:33,863 - aiogram.event - INFO - Update id=612304649 is handled. Duration 250 ms by bot id=7244501614
+2025-05-30 18:15:56,678 - aiogram.event - INFO - Update id=612304650 is handled. Duration 18000 ms by bot id=7244501614
+2025-05-30 18:16:25,972 - aiogram.event - INFO - Update id=612304651 is handled. Duration 17719 ms by bot id=7244501614
+2025-05-30 18:17:04,558 - aiogram.event - INFO - Update id=612304652 is handled. Duration 20420 ms by bot id=7244501614
+2025-05-30 18:17:33,651 - aiogram.event - INFO - Update id=612304653 is handled. Duration 18780 ms by bot id=7244501614
+2025-05-30 18:17:55,189 - aiogram.event - INFO - Update id=612304654 is handled. Duration 18452 ms by bot id=7244501614
+2025-05-30 18:18:18,363 - aiogram.event - INFO - Update id=612304655 is handled. Duration 18453 ms by bot id=7244501614
+2025-05-30 18:18:37,642 - aiogram.event - INFO - Update id=612304656 is handled. Duration 18437 ms by bot id=7244501614
+2025-05-30 18:18:57,100 - aiogram.event - INFO - Update id=612304657 is handled. Duration 18078 ms by bot id=7244501614
+2025-05-30 18:20:17,159 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 18:20:17,283 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 1] [SSL: APPLICATION_DATA_AFTER_CLOSE_NOTIFY] application data after close notify (_ssl.c:2685)
+2025-05-30 18:20:17,283 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 18:20:17,419 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:20:24,131 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 18:20:24,133 - __main__ - INFO - Starting bot...
+2025-05-30 18:20:24,133 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 18:20:24,287 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:20:47,292 - aiogram.event - INFO - Update id=612304658 is handled. Duration 18890 ms by bot id=7244501614
+2025-05-30 18:21:00,753 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 18:21:01,016 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:22:50,074 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 18:22:50,075 - __main__ - INFO - Starting bot...
+2025-05-30 18:22:50,075 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 18:22:50,519 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:23:24,067 - aiogram.event - INFO - Update id=612304659 is handled. Duration 24295 ms by bot id=7244501614
+2025-05-30 18:24:15,877 - aiogram.event - INFO - Update id=612304660 is handled. Duration 27390 ms by bot id=7244501614
+2025-05-30 18:25:10,325 - aiogram.event - INFO - Update id=612304661 is handled. Duration 24500 ms by bot id=7244501614
+2025-05-30 18:25:48,279 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 18:25:48,541 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:25:55,490 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 18:25:55,491 - __main__ - INFO - Starting bot...
+2025-05-30 18:25:55,491 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 18:25:55,638 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 18:25:57,888 - aiogram.event - INFO - Update id=612304662 is handled. Duration 219 ms by bot id=7244501614
+2025-05-30 18:26:28,884 - aiogram.event - INFO - Update id=612304663 is handled. Duration 26375 ms by bot id=7244501614
+2025-05-30 18:27:20,805 - aiogram.event - INFO - Update id=612304664 is handled. Duration 24061 ms by bot id=7244501614
+2025-05-30 18:27:49,858 - aiogram.event - INFO - Update id=612304665 is handled. Duration 24375 ms by bot id=7244501614
+2025-05-30 18:28:59,476 - aiogram.event - INFO - Update id=612304666 is handled. Duration 25639 ms by bot id=7244501614
+2025-05-30 18:30:00,106 - aiogram.event - INFO - Update id=612304667 is handled. Duration 24172 ms by bot id=7244501614
+2025-05-30 18:31:54,090 - aiogram.event - INFO - Update id=612304668 is handled. Duration 25047 ms by bot id=7244501614
+2025-05-30 18:32:47,376 - aiogram.event - INFO - Update id=612304669 is handled. Duration 24734 ms by bot id=7244501614
+2025-05-30 18:34:00,512 - aiogram.event - INFO - Update id=612304670 is handled. Duration 25937 ms by bot id=7244501614
+2025-05-30 18:35:04,774 - aiogram.event - INFO - Update id=612304671 is handled. Duration 24139 ms by bot id=7244501614
+2025-05-30 18:35:30,749 - aiogram.event - INFO - Update id=612304672 is handled. Duration 23921 ms by bot id=7244501614
+2025-05-30 18:36:22,498 - aiogram.event - INFO - Update id=612304673 is handled. Duration 23844 ms by bot id=7244501614
+2025-05-30 18:37:01,276 - aiogram.event - INFO - Update id=612304674 is handled. Duration 23827 ms by bot id=7244501614
+2025-05-30 18:38:28,250 - aiogram.event - INFO - Update id=612304675 is handled. Duration 23765 ms by bot id=7244501614
+2025-05-30 18:39:06,537 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 18:39:06,792 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 20:43:04,199 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 20:43:04,200 - __main__ - INFO - Starting bot...
+2025-05-30 20:43:04,200 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 20:43:04,416 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 20:43:17,492 - aiogram.event - INFO - Update id=612304676 is handled. Duration 250 ms by bot id=7244501614
+2025-05-30 20:43:52,322 - aiogram.event - INFO - Update id=612304677 is handled. Duration 26844 ms by bot id=7244501614
+2025-05-30 20:44:37,992 - aiogram.event - INFO - Update id=612304678 is handled. Duration 22266 ms by bot id=7244501614
+2025-05-30 20:45:27,101 - aiogram.event - INFO - Update id=612304679 is handled. Duration 22077 ms by bot id=7244501614
+2025-05-30 20:46:08,680 - aiogram.event - INFO - Update id=612304680 is handled. Duration 22420 ms by bot id=7244501614
+2025-05-30 20:46:28,579 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 20:46:28,579 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 20:46:39,768 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 20:50:24,329 - aiogram.event - INFO - Update id=612304681 is handled. Duration 23921 ms by bot id=7244501614
+2025-05-30 20:51:08,918 - aiogram.event - INFO - Update id=612304682 is handled. Duration 24484 ms by bot id=7244501614
+2025-05-30 20:52:05,148 - aiogram.event - INFO - Update id=612304683 is handled. Duration 24109 ms by bot id=7244501614
+2025-05-30 20:52:47,257 - aiogram.event - INFO - Update id=612304684 is handled. Duration 24375 ms by bot id=7244501614
+2025-05-30 20:53:46,716 - aiogram.event - INFO - Update id=612304685 is handled. Duration 23703 ms by bot id=7244501614
+2025-05-30 20:53:46,717 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-05-30 20:53:46,717 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 20:53:57,779 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 20:54:48,113 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 20:54:48,113 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 20:54:48,336 - aiogram.event - INFO - Update id=612304686 is handled. Duration 23532 ms by bot id=7244501614
+2025-05-30 20:54:59,163 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 20:56:05,409 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 20:56:05,409 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 20:56:05,662 - aiogram.event - INFO - Update id=612304687 is handled. Duration 23577 ms by bot id=7244501614
+2025-05-30 20:56:16,475 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 20:57:30,171 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 20:57:30,171 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 20:57:30,393 - aiogram.event - INFO - Update id=612304688 is handled. Duration 46438 ms by bot id=7244501614
+2025-05-30 20:57:30,393 - aiogram.event - INFO - Update id=612304689 is handled. Duration 23328 ms by bot id=7244501614
+2025-05-30 20:57:41,235 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 20:58:31,568 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 20:58:31,568 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 20:58:42,752 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:00:03,272 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:00:03,272 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:00:14,450 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:01:55,000 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:01:55,000 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:02:06,180 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:03:46,789 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:03:46,789 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:03:57,988 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:04:18,129 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:04:18,129 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:04:29,318 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:05:19,718 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:05:19,718 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:05:30,932 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:05:30,934 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:05:30,934 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:05:42,167 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:06:12,457 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2025-05-30 21:06:12,458 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:06:23,647 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:06:53,827 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:06:53,827 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:07:04,998 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:08:25,971 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:08:25,971 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:08:26,173 - aiogram.event - INFO - Update id=612304690 is handled. Duration 26171 ms by bot id=7244501614
+2025-05-30 21:08:37,041 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:08:37,041 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:08:37,041 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:08:48,210 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:08:48,211 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:08:48,211 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:08:59,406 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:09:29,607 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:09:29,607 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:09:40,796 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:10:10,975 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2025-05-30 21:10:10,975 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-30 21:10:22,175 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 7244501614)
+2025-05-30 21:11:31,703 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 21:11:31,969 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 21:22:41,763 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 21:22:41,765 - __main__ - INFO - Starting bot...
+2025-05-30 21:22:41,765 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 21:22:42,005 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 21:22:49,841 - aiogram.event - INFO - Update id=612304691 is handled. Duration 266 ms by bot id=7244501614
+2025-05-30 21:23:27,651 - aiogram.event - INFO - Update id=612304692 is handled. Duration 29905 ms by bot id=7244501614
+2025-05-30 21:24:21,092 - aiogram.event - INFO - Update id=612304693 is handled. Duration 24438 ms by bot id=7244501614
+2025-05-30 21:25:27,190 - aiogram.event - INFO - Update id=612304694 is handled. Duration 24250 ms by bot id=7244501614
+2025-05-30 21:26:10,859 - aiogram.event - INFO - Update id=612304695 is handled. Duration 24264 ms by bot id=7244501614
+2025-05-30 21:27:58,609 - aiogram.event - INFO - Update id=612304696 is handled. Duration 24639 ms by bot id=7244501614
+2025-05-30 21:28:53,418 - aiogram.event - INFO - Update id=612304697 is handled. Duration 24188 ms by bot id=7244501614
+2025-05-30 21:29:50,278 - aiogram.event - INFO - Update id=612304698 is handled. Duration 24078 ms by bot id=7244501614
+2025-05-30 21:31:11,524 - aiogram.event - INFO - Update id=612304699 is handled. Duration 26547 ms by bot id=7244501614
+2025-05-30 21:32:10,167 - aiogram.event - INFO - Update id=612304700 is handled. Duration 24188 ms by bot id=7244501614
+2025-05-30 21:33:11,706 - aiogram.event - INFO - Update id=612304701 is handled. Duration 24250 ms by bot id=7244501614
+2025-05-30 21:34:38,099 - aiogram.event - INFO - Update id=612304702 is handled. Duration 23985 ms by bot id=7244501614
+2025-05-30 21:35:15,231 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 21:35:15,493 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 22:18:44,094 - __main__ - INFO - FFmpeg работает корректно
+2025-05-30 22:18:44,095 - __main__ - INFO - Starting bot...
+2025-05-30 22:18:44,095 - aiogram.dispatcher - INFO - Start polling
+2025-05-30 22:18:44,292 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-30 22:18:52,043 - aiogram.event - INFO - Update id=612304703 is handled. Duration 281 ms by bot id=7244501614
+2025-05-30 22:19:28,591 - aiogram.event - INFO - Update id=612304704 is handled. Duration 30875 ms by bot id=7244501614
+2025-05-30 22:20:20,350 - aiogram.event - INFO - Update id=612304705 is handled. Duration 24968 ms by bot id=7244501614
+2025-05-30 22:21:12,079 - aiogram.event - INFO - Update id=612304706 is handled. Duration 24530 ms by bot id=7244501614
+2025-05-30 22:21:58,750 - aiogram.event - INFO - Update id=612304707 is handled. Duration 24125 ms by bot id=7244501614
+2025-05-30 22:22:53,479 - aiogram.event - INFO - Update id=612304708 is handled. Duration 24922 ms by bot id=7244501614
+2025-05-30 22:24:06,287 - aiogram.event - INFO - Update id=612304709 is handled. Duration 25453 ms by bot id=7244501614
+2025-05-30 22:25:11,247 - aiogram.event - INFO - Update id=612304710 is handled. Duration 24609 ms by bot id=7244501614
+2025-05-30 22:26:08,896 - aiogram.event - INFO - Update id=612304711 is handled. Duration 24406 ms by bot id=7244501614
+2025-05-30 22:26:33,565 - aiogram.event - INFO - Update id=612304712 is handled. Duration 93 ms by bot id=7244501614
+2025-05-30 22:26:41,165 - aiogram.event - INFO - Update id=612304713 is handled. Duration 156 ms by bot id=7244501614
+2025-05-30 22:26:42,156 - aiogram.event - INFO - Update id=612304714 is handled. Duration 93 ms by bot id=7244501614
+2025-05-30 22:26:43,097 - aiogram.event - INFO - Update id=612304715 is handled. Duration 202 ms by bot id=7244501614
+2025-05-30 22:27:32,076 - aiogram.event - INFO - Update id=612304716 is handled. Duration 23530 ms by bot id=7244501614
+2025-05-30 22:28:30,285 - aiogram.event - INFO - Update id=612304717 is handled. Duration 23827 ms by bot id=7244501614
+2025-05-30 22:28:58,929 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 22:28:59,923 - __main__ - INFO - Распознанный текст: Хай Гитлер
+2025-05-30 22:29:00,985 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 22:29:00,986 - aiogram.event - INFO - Update id=612304718 is handled. Duration 2047 ms by bot id=7244501614
+2025-05-30 22:29:31,673 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 22:29:32,603 - __main__ - INFO - Распознанный текст: как Гитлер убил Сталина
+2025-05-30 22:29:59,385 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 22:29:59,385 - aiogram.event - INFO - Update id=612304719 is handled. Duration 27718 ms by bot id=7244501614
+2025-05-30 22:30:38,544 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 22:30:39,452 - __main__ - INFO - Распознанный текст: Сколько дней в году
+2025-05-30 22:31:04,823 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 22:31:04,824 - aiogram.event - INFO - Update id=612304720 is handled. Duration 26280 ms by bot id=7244501614
+2025-05-30 22:31:31,292 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-05-30 22:31:32,161 - __main__ - INFO - Распознанный текст: Как найти Бога
+2025-05-30 22:31:57,884 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-05-30 22:31:57,884 - aiogram.event - INFO - Update id=612304721 is handled. Duration 26593 ms by bot id=7244501614
+2025-05-30 22:33:58,122 - aiogram.event - INFO - Update id=612304722 is handled. Duration 24484 ms by bot id=7244501614
+2025-05-30 22:34:32,662 - aiogram.event - INFO - Update id=612304723 is handled. Duration 24139 ms by bot id=7244501614
+2025-05-30 22:35:41,772 - aiogram.event - INFO - Update id=612304724 is handled. Duration 48125 ms by bot id=7244501614
+2025-05-30 22:35:41,825 - aiogram.event - INFO - Update id=612304725 is handled. Duration 23984 ms by bot id=7244501614
+2025-05-30 22:36:57,072 - aiogram.event - INFO - Update id=612304726 is handled. Duration 47250 ms by bot id=7244501614
+2025-05-30 22:36:57,281 - aiogram.event - INFO - Update id=612304727 is handled. Duration 23343 ms by bot id=7244501614
+2025-05-30 22:37:24,652 - aiogram.event - INFO - Update id=612304728 is handled. Duration 23608 ms by bot id=7244501614
+2025-05-30 22:37:59,422 - aiogram.event - INFO - Update id=612304729 is handled. Duration 23625 ms by bot id=7244501614
+2025-05-30 22:38:59,831 - aiogram.event - INFO - Update id=612304730 is handled. Duration 47952 ms by bot id=7244501614
+2025-05-30 22:38:59,868 - aiogram.event - INFO - Update id=612304731 is handled. Duration 24515 ms by bot id=7244501614
+2025-05-30 22:39:46,397 - aiogram.event - INFO - Update id=612304732 is handled. Duration 24858 ms by bot id=7244501614
+2025-05-30 22:40:30,939 - aiogram.event - INFO - Update id=612304733 is handled. Duration 24343 ms by bot id=7244501614
+2025-05-30 22:41:05,089 - aiogram.event - INFO - Update id=612304734 is handled. Duration 24656 ms by bot id=7244501614
+2025-05-30 22:42:12,288 - aiogram.event - INFO - Update id=612304735 is handled. Duration 48063 ms by bot id=7244501614
+2025-05-30 22:42:12,337 - aiogram.event - INFO - Update id=612304736 is handled. Duration 24313 ms by bot id=7244501614
+2025-05-30 22:43:07,377 - aiogram.event - INFO - Update id=612304737 is handled. Duration 47922 ms by bot id=7244501614
+2025-05-30 22:43:07,515 - aiogram.event - INFO - Update id=612304738 is handled. Duration 24140 ms by bot id=7244501614
+2025-05-30 22:43:45,427 - aiogram.event - INFO - Update id=612304739 is handled. Duration 24203 ms by bot id=7244501614
+2025-05-30 22:44:45,310 - aiogram.event - INFO - Update id=612304740 is handled. Duration 23984 ms by bot id=7244501614
+2025-05-30 22:45:12,509 - aiogram.event - INFO - Update id=612304741 is handled. Duration 24110 ms by bot id=7244501614
+2025-05-30 22:46:19,446 - aiogram.event - INFO - Update id=612304742 is handled. Duration 24422 ms by bot id=7244501614
+2025-05-30 22:47:13,531 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-30 22:47:13,790 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-31 14:41:58,634 - __main__ - INFO - FFmpeg работает корректно
+2025-05-31 14:41:58,635 - __main__ - INFO - Starting bot...
+2025-05-31 14:41:58,635 - aiogram.dispatcher - INFO - Start polling
+2025-05-31 14:41:58,800 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-31 14:41:59,064 - aiogram.event - INFO - Update id=612304743 is handled. Duration 202 ms by bot id=7244501614
+2025-05-31 14:42:09,612 - aiogram.event - INFO - Update id=612304744 is handled. Duration 93 ms by bot id=7244501614
+2025-05-31 14:42:52,918 - aiogram.event - INFO - Update id=612304745 is handled. Duration 38140 ms by bot id=7244501614
+2025-05-31 14:44:42,522 - aiogram.event - INFO - Update id=612304746 is handled. Duration 31875 ms by bot id=7244501614
+2025-05-31 14:45:33,000 - aiogram.event - INFO - Update id=612304747 is handled. Duration 31375 ms by bot id=7244501614
+2025-05-31 14:47:24,996 - aiogram.event - INFO - Update id=612304748 is handled. Duration 31905 ms by bot id=7244501614
+2025-05-31 14:48:19,215 - aiogram.event - INFO - Update id=612304749 is handled. Duration 31750 ms by bot id=7244501614
+2025-05-31 14:49:16,977 - aiogram.event - INFO - Update id=612304750 is handled. Duration 31280 ms by bot id=7244501614
+2025-05-31 14:50:05,979 - aiogram.event - INFO - Update id=612304751 is handled. Duration 32233 ms by bot id=7244501614
+2025-05-31 14:50:55,391 - aiogram.event - INFO - Update id=612304752 is handled. Duration 32672 ms by bot id=7244501614
+2025-05-31 14:51:47,653 - aiogram.event - INFO - Update id=612304753 is handled. Duration 21844 ms by bot id=7244501614
+2025-05-31 14:52:44,984 - aiogram.event - INFO - Update id=612304754 is handled. Duration 32172 ms by bot id=7244501614
+2025-05-31 14:54:00,161 - aiogram.event - INFO - Update id=612304755 is handled. Duration 22077 ms by bot id=7244501614
+2025-05-31 14:56:48,962 - aiogram.event - INFO - Update id=612304756 is handled. Duration 31391 ms by bot id=7244501614
+2025-05-31 14:57:57,039 - aiogram.event - INFO - Update id=612304757 is handled. Duration 31452 ms by bot id=7244501614
+2025-05-31 15:09:43,213 - aiogram.event - INFO - Update id=612304758 is handled. Duration 31657 ms by bot id=7244501614
+2025-05-31 15:10:36,559 - aiogram.event - INFO - Update id=612304759 is handled. Duration 31889 ms by bot id=7244501614
+2025-05-31 15:11:54,582 - aiogram.event - INFO - Update id=612304760 is handled. Duration 31405 ms by bot id=7244501614
+2025-05-31 15:21:04,250 - aiogram.event - INFO - Update id=612304761 is handled. Duration 28469 ms by bot id=7244501614
+2025-05-31 15:32:32,425 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-31 15:32:32,672 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-31 15:32:40,015 - __main__ - INFO - FFmpeg работает корректно
+2025-05-31 15:32:40,015 - __main__ - INFO - Starting bot...
+2025-05-31 15:32:40,015 - aiogram.dispatcher - INFO - Start polling
+2025-05-31 15:32:40,176 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-05-31 15:33:50,312 - aiogram.event - INFO - Update id=612304762 is handled. Duration 35359 ms by bot id=7244501614
+2025-05-31 15:35:39,038 - aiogram.event - INFO - Update id=612304763 is handled. Duration 24577 ms by bot id=7244501614
+2025-05-31 15:42:39,553 - aiogram.event - INFO - Update id=612304764 is handled. Duration 30234 ms by bot id=7244501614
+2025-05-31 15:47:30,073 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [WinError 121] Превышен таймаут семафора
+2025-05-31 15:47:30,073 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 7244501614)
+2025-05-31 15:47:52,117 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorError: Cannot connect to host api.telegram.org:443 ssl:default [Превышен таймаут семафора]
+2025-05-31 15:47:52,117 - aiogram.dispatcher - WARNING - Sleep for 1.230805 seconds and try again... (tryings = 1, bot id = 7244501614)
+2025-05-31 15:48:10,515 - aiogram.dispatcher - INFO - Connection established (tryings = 2, bot id = 7244501614)
+2025-05-31 16:30:00,443 - aiogram.dispatcher - INFO - Polling stopped
+2025-05-31 16:30:00,699 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-01 01:33:59,477 - __main__ - INFO - FFmpeg работает корректно
+2025-06-01 01:33:59,478 - __main__ - INFO - Starting bot...
+2025-06-01 01:33:59,478 - aiogram.dispatcher - INFO - Start polling
+2025-06-01 01:33:59,636 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-01 01:34:36,029 - aiogram.event - INFO - Update id=612304765 is handled. Duration 171 ms by bot id=7244501614
+2025-06-01 01:35:20,848 - aiogram.event - INFO - Update id=612304766 is handled. Duration 37453 ms by bot id=7244501614
+2025-06-01 01:36:23,408 - aiogram.event - INFO - Update id=612304767 is handled. Duration 26609 ms by bot id=7244501614
+2025-06-01 01:37:28,001 - aiogram.event - INFO - Update id=612304768 is handled. Duration 31390 ms by bot id=7244501614
+2025-06-01 01:39:42,322 - aiogram.event - INFO - Update id=612304769 is handled. Duration 31250 ms by bot id=7244501614
+2025-06-01 01:43:20,015 - aiogram.event - INFO - Update id=612304770 is handled. Duration 27110 ms by bot id=7244501614
+2025-06-01 01:44:34,305 - aiogram.event - INFO - Update id=612304771 is handled. Duration 31514 ms by bot id=7244501614
+2025-06-01 01:45:21,736 - aiogram.event - INFO - Update id=612304772 is handled. Duration 23530 ms by bot id=7244501614
+2025-06-01 01:48:04,638 - aiogram.event - INFO - Update id=612304773 is handled. Duration 31921 ms by bot id=7244501614
+2025-06-01 01:49:23,347 - aiogram.event - INFO - Update id=612304774 is handled. Duration 31297 ms by bot id=7244501614
+2025-06-01 01:50:15,921 - aiogram.event - INFO - Update id=612304775 is handled. Duration 31593 ms by bot id=7244501614
+2025-06-01 01:50:34,978 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-01 01:50:35,255 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-01 15:21:24,939 - __main__ - INFO - FFmpeg работает корректно
+2025-06-01 15:21:24,940 - __main__ - INFO - Starting bot...
+2025-06-01 15:21:24,940 - aiogram.dispatcher - INFO - Start polling
+2025-06-01 15:21:25,090 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-01 15:21:45,675 - aiogram.event - INFO - Update id=612304776 is handled. Duration 156 ms by bot id=7244501614
+2025-06-01 15:22:24,666 - aiogram.event - INFO - Update id=612304777 is handled. Duration 27797 ms by bot id=7244501614
+2025-06-01 15:23:35,926 - aiogram.event - INFO - Update id=612304778 is handled. Duration 28797 ms by bot id=7244501614
+2025-06-01 15:24:33,787 - aiogram.event - INFO - Update id=612304779 is handled. Duration 32313 ms by bot id=7244501614
+2025-06-01 15:24:44,938 - aiogram.event - INFO - Update id=612304780 is handled. Duration 139 ms by bot id=7244501614
+2025-06-01 15:25:19,616 - aiogram.event - INFO - Update id=612304781 is handled. Duration 24719 ms by bot id=7244501614
+2025-06-01 15:25:57,792 - aiogram.event - INFO - Update id=612304782 is handled. Duration 24281 ms by bot id=7244501614
+2025-06-01 15:26:04,674 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-01 15:26:04,937 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-01 15:26:19,330 - __main__ - INFO - FFmpeg работает корректно
+2025-06-01 15:26:19,331 - __main__ - INFO - Starting bot...
+2025-06-01 15:26:19,331 - aiogram.dispatcher - INFO - Start polling
+2025-06-01 15:26:19,485 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-01 15:26:24,969 - aiogram.event - INFO - Update id=612304783 is handled. Duration 188 ms by bot id=7244501614
+2025-06-01 15:27:03,382 - aiogram.event - INFO - Update id=612304784 is handled. Duration 30235 ms by bot id=7244501614
+2025-06-01 15:27:42,848 - aiogram.event - INFO - Update id=612304785 is handled. Duration 30234 ms by bot id=7244501614
+2025-06-01 15:27:55,173 - aiogram.event - INFO - Update id=612304786 is handled. Duration 94 ms by bot id=7244501614
+2025-06-01 15:28:10,453 - aiogram.event - INFO - Update id=612304787 is handled. Duration 93 ms by bot id=7244501614
+2025-06-01 15:28:34,378 - aiogram.event - INFO - Update id=612304788 is handled. Duration 109 ms by bot id=7244501614
+2025-06-01 15:28:46,633 - aiogram.event - INFO - Update id=612304789 is handled. Duration 188 ms by bot id=7244501614
+2025-06-01 15:29:04,855 - aiogram.event - INFO - Update id=612304790 is handled. Duration 93 ms by bot id=7244501614
+2025-06-01 15:29:48,267 - aiogram.event - INFO - Update id=612304791 is handled. Duration 30328 ms by bot id=7244501614
+2025-06-01 15:30:37,355 - aiogram.event - INFO - Update id=612304792 is handled. Duration 23936 ms by bot id=7244501614
+2025-06-01 15:31:03,987 - aiogram.event - INFO - Update id=612304793 is handled. Duration 22656 ms by bot id=7244501614
+2025-06-01 15:31:45,980 - aiogram.event - INFO - Update id=612304794 is handled. Duration 22468 ms by bot id=7244501614
+2025-06-01 15:32:28,764 - aiogram.event - INFO - Update id=612304795 is handled. Duration 23203 ms by bot id=7244501614
+2025-06-01 15:37:02,708 - aiogram.event - INFO - Update id=612304796 is handled. Duration 27327 ms by bot id=7244501614
+2025-06-01 15:54:47,978 - aiogram.event - INFO - Update id=612304797 is handled. Duration 30686 ms by bot id=7244501614
+2025-06-01 15:56:04,206 - aiogram.event - INFO - Update id=612304798 is handled. Duration 39686 ms by bot id=7244501614
+2025-06-01 15:57:04,678 - aiogram.event - INFO - Update id=612304799 is handled. Duration 42077 ms by bot id=7244501614
+2025-06-01 15:59:47,469 - aiogram.event - INFO - Update id=612304800 is handled. Duration 31875 ms by bot id=7244501614
+2025-06-01 16:01:35,376 - aiogram.event - INFO - Update id=612304801 is handled. Duration 41640 ms by bot id=7244501614
+2025-06-01 16:03:28,382 - aiogram.event - INFO - Update id=612304802 is handled. Duration 78 ms by bot id=7244501614
+2025-06-01 16:18:22,084 - aiogram.event - INFO - Update id=612304803 is handled. Duration 30000 ms by bot id=7244501614
+2025-06-01 16:19:36,756 - aiogram.event - INFO - Update id=612304804 is handled. Duration 35875 ms by bot id=7244501614
+2025-06-01 16:20:33,849 - aiogram.event - INFO - Update id=612304805 is handled. Duration 35750 ms by bot id=7244501614
+2025-06-01 16:32:44,523 - aiogram.event - INFO - Update id=612304806 is handled. Duration 202 ms by bot id=7244501614
+2025-06-01 16:32:46,742 - aiogram.event - INFO - Update id=612304807 is handled. Duration 77 ms by bot id=7244501614
+2025-06-01 16:33:15,831 - aiogram.event - INFO - Update id=612304808 is handled. Duration 26811 ms by bot id=7244501614
+2025-06-01 16:35:13,694 - aiogram.event - INFO - Update id=612304809 is handled. Duration 72327 ms by bot id=7244501614
+2025-06-01 16:35:13,788 - aiogram.event - INFO - Update id=612304810 is handled. Duration 35797 ms by bot id=7244501614
+2025-06-01 16:36:45,905 - aiogram.event - INFO - Update id=612304811 is handled. Duration 59530 ms by bot id=7244501614
+2025-06-01 16:36:45,921 - aiogram.event - INFO - Update id=612304812 is handled. Duration 31906 ms by bot id=7244501614
+2025-06-01 16:37:36,057 - aiogram.event - INFO - Update id=612304813 is handled. Duration 29171 ms by bot id=7244501614
+2025-06-01 16:38:59,985 - aiogram.event - INFO - Update id=612304814 is handled. Duration 66609 ms by bot id=7244501614
+2025-06-01 16:39:00,067 - aiogram.event - INFO - Update id=612304815 is handled. Duration 32811 ms by bot id=7244501614
+2025-06-01 16:40:51,625 - aiogram.event - INFO - Update id=612304816 is handled. Duration 28563 ms by bot id=7244501614
+2025-06-01 16:41:35,399 - aiogram.event - INFO - Update id=612304817 is handled. Duration 28389 ms by bot id=7244501614
+2025-06-01 16:42:31,183 - aiogram.event - INFO - Update id=612304818 is handled. Duration 25639 ms by bot id=7244501614
+2025-06-01 16:43:11,200 - aiogram.event - INFO - Update id=612304819 is handled. Duration 26686 ms by bot id=7244501614
+2025-06-01 16:43:59,910 - aiogram.event - INFO - Update id=612304820 is handled. Duration 26202 ms by bot id=7244501614
+2025-06-01 18:12:11,783 - aiogram.event - INFO - Update id=612304821 is handled. Duration 33014 ms by bot id=7244501614
+2025-06-01 18:15:18,449 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-01 18:15:18,703 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-02 12:58:20,612 - __main__ - INFO - FFmpeg работает корректно
+2025-06-02 12:58:20,614 - __main__ - INFO - Starting bot...
+2025-06-02 12:58:20,614 - aiogram.dispatcher - INFO - Start polling
+2025-06-02 12:58:20,782 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-02 12:59:06,085 - aiogram.event - INFO - Update id=612304822 is handled. Duration 36531 ms by bot id=7244501614
+2025-06-02 13:00:28,734 - aiogram.event - INFO - Update id=612304823 is handled. Duration 41562 ms by bot id=7244501614
+2025-06-02 14:48:08,227 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-02 14:48:08,487 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-02 18:28:49,765 - __main__ - INFO - FFmpeg работает корректно
+2025-06-02 18:28:49,766 - __main__ - INFO - Starting bot...
+2025-06-02 18:28:49,767 - aiogram.dispatcher - INFO - Start polling
+2025-06-02 18:28:49,933 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-02 18:28:53,670 - aiogram.event - INFO - Update id=612304824 is handled. Duration 155 ms by bot id=7244501614
+2025-06-02 18:29:42,056 - aiogram.event - INFO - Update id=612304825 is handled. Duration 43312 ms by bot id=7244501614
+2025-06-02 18:30:39,955 - aiogram.event - INFO - Update id=612304826 is handled. Duration 187 ms by bot id=7244501614
+2025-06-02 18:31:00,787 - aiogram.event - INFO - Update id=612304827 is handled. Duration 125 ms by bot id=7244501614
+2025-06-02 18:31:29,050 - aiogram.event - INFO - Update id=612304828 is handled. Duration 77 ms by bot id=7244501614
+2025-06-02 18:34:28,961 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-02 18:34:29,233 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-02 21:36:29,902 - __main__ - INFO - FFmpeg работает корректно
+2025-06-02 21:36:29,903 - __main__ - INFO - Starting bot...
+2025-06-02 21:36:29,903 - aiogram.dispatcher - INFO - Start polling
+2025-06-02 21:36:30,073 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-02 21:36:52,100 - aiogram.event - INFO - Update id=612304829 is handled. Duration 281 ms by bot id=7244501614
+2025-06-02 21:37:42,584 - aiogram.event - INFO - Update id=612304830 is handled. Duration 43172 ms by bot id=7244501614
+2025-06-02 21:38:59,507 - aiogram.event - INFO - Update id=612304831 is handled. Duration 42438 ms by bot id=7244501614
+2025-06-02 21:39:55,185 - aiogram.event - INFO - Update id=612304832 is handled. Duration 42625 ms by bot id=7244501614
+2025-06-02 21:40:03,531 - aiogram.event - INFO - Update id=612304833 is handled. Duration 77 ms by bot id=7244501614
+2025-06-02 21:40:45,266 - aiogram.event - INFO - Update id=612304834 is handled. Duration 218 ms by bot id=7244501614
+2025-06-02 21:40:59,961 - __main__ - INFO - Начало обработки голосового сообщения от пользователя 1053241039
+2025-06-02 21:41:01,344 - __main__ - INFO - Распознанный текст: Расскажи анекдот
+2025-06-02 21:41:45,970 - __main__ - INFO - Завершение обработки голосового сообщения от пользователя 1053241039
+2025-06-02 21:41:45,970 - aiogram.event - INFO - Update id=612304835 is handled. Duration 46015 ms by bot id=7244501614
+2025-06-02 21:43:02,131 - aiogram.event - INFO - Update id=612304836 is handled. Duration 42859 ms by bot id=7244501614
+2025-06-02 21:43:26,730 - aiogram.event - INFO - Update id=612304837 is handled. Duration 125 ms by bot id=7244501614
+2025-06-02 21:49:26,486 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-02 21:49:26,734 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-03 10:48:46,735 - __main__ - INFO - FFmpeg работает корректно
+2025-06-03 10:48:46,737 - __main__ - INFO - Starting bot...
+2025-06-03 10:48:46,737 - aiogram.dispatcher - INFO - Start polling
+2025-06-03 10:48:46,906 - aiogram.dispatcher - INFO - Run polling for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
+2025-06-03 10:48:47,173 - aiogram.event - INFO - Update id=612304838 is handled. Duration 219 ms by bot id=7244501614
+2025-06-03 10:48:53,084 - aiogram.dispatcher - INFO - Polling stopped
+2025-06-03 10:48:53,343 - aiogram.dispatcher - INFO - Polling stopped for bot @kurs0vaya_bot id=7244501614 - 'kursovaya'
